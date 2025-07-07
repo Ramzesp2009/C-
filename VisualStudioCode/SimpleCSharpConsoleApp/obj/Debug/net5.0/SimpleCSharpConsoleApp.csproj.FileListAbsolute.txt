@@ -1,0 +1,15 @@
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net5.0\SimpleCSharpConsoleApp.exe
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net5.0\SimpleCSharpConsoleApp.deps.json
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net5.0\SimpleCSharpConsoleApp.runtimeconfig.json
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net5.0\SimpleCSharpConsoleApp.runtimeconfig.dev.json
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net5.0\SimpleCSharpConsoleApp.dll
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\bin\Debug\net5.0\SimpleCSharpConsoleApp.pdb
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\SimpleCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\SimpleCSharpConsoleApp.AssemblyInfo.cs
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\SimpleCSharpConsoleApp.dll
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\refint\SimpleCSharpConsoleApp.dll
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\SimpleCSharpConsoleApp.pdb
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\SimpleCSharpConsoleApp.genruntimeconfig.cache
+C:\Coding Space\C#\VisualStudioCode\SimpleCSharpConsoleApp\obj\Debug\net5.0\ref\SimpleCSharpConsoleApp.dll

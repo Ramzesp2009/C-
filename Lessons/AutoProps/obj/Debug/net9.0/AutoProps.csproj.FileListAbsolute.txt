@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\AutoProps\bin\Debug\net9.0\AutoProps.exe
+C:\Coding Space\C#\Lessons\AutoProps\bin\Debug\net9.0\AutoProps.deps.json
+C:\Coding Space\C#\Lessons\AutoProps\bin\Debug\net9.0\AutoProps.runtimeconfig.json
+C:\Coding Space\C#\Lessons\AutoProps\bin\Debug\net9.0\AutoProps.dll
+C:\Coding Space\C#\Lessons\AutoProps\bin\Debug\net9.0\AutoProps.pdb
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\AutoProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\AutoProps.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\AutoProps.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\AutoProps.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\AutoProps.dll
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\refint\AutoProps.dll
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\AutoProps.pdb
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\AutoProps.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\AutoProps\obj\Debug\net9.0\ref\AutoProps.dll

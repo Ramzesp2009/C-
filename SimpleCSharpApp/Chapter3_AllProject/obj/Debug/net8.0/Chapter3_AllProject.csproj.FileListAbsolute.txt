@@ -1,0 +1,14 @@
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\Chapter3_AllProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\Chapter3_AllProject.AssemblyInfoInputs.cache
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\Chapter3_AllProject.AssemblyInfo.cs
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\Chapter3_AllProject.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\bin\Debug\net8.0\Chapter3_AllProject.exe
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\bin\Debug\net8.0\Chapter3_AllProject.deps.json
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\bin\Debug\net8.0\Chapter3_AllProject.runtimeconfig.json
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\bin\Debug\net8.0\Chapter3_AllProject.dll
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\bin\Debug\net8.0\Chapter3_AllProject.pdb
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\Chapter3_AllProject.dll
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\refint\Chapter3_AllProject.dll
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\Chapter3_AllProject.pdb
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\Chapter3_AllProject.genruntimeconfig.cache
+C:\Coding Space\C#\SimpleCSharpApp\Chapter3_AllProject\obj\Debug\net8.0\ref\Chapter3_AllProject.dll

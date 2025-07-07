@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\bin\Debug\net9.0\StaticDateAndMembers.exe
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\bin\Debug\net9.0\StaticDateAndMembers.deps.json
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\bin\Debug\net9.0\StaticDateAndMembers.runtimeconfig.json
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\bin\Debug\net9.0\StaticDateAndMembers.dll
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\bin\Debug\net9.0\StaticDateAndMembers.pdb
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\StaticDateAndMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\StaticDateAndMembers.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\StaticDateAndMembers.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\StaticDateAndMembers.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\StaticDateAndMembers.dll
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\refint\StaticDateAndMembers.dll
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\StaticDateAndMembers.pdb
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\StaticDateAndMembers.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\StaticDateAndMembers\obj\Debug\net9.0\ref\StaticDateAndMembers.dll

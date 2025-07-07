@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Core_lesson\Core_lesson\bin\Debug\net8.0\Core_lesson.exe
+C:\Coding Space\C#\Core_lesson\Core_lesson\bin\Debug\net8.0\Core_lesson.deps.json
+C:\Coding Space\C#\Core_lesson\Core_lesson\bin\Debug\net8.0\Core_lesson.runtimeconfig.json
+C:\Coding Space\C#\Core_lesson\Core_lesson\bin\Debug\net8.0\Core_lesson.dll
+C:\Coding Space\C#\Core_lesson\Core_lesson\bin\Debug\net8.0\Core_lesson.pdb
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\Core_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\Core_lesson.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\Core_lesson.AssemblyInfo.cs
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\Core_lesson.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\Core_lesson.dll
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\refint\Core_lesson.dll
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\Core_lesson.pdb
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\Core_lesson.genruntimeconfig.cache
+C:\Coding Space\C#\Core_lesson\Core_lesson\obj\Debug\net8.0\ref\Core_lesson.dll

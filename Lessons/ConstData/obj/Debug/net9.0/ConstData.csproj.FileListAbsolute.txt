@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\ConstData\bin\Debug\net9.0\ConstData.exe
+C:\Coding Space\C#\Lessons\ConstData\bin\Debug\net9.0\ConstData.deps.json
+C:\Coding Space\C#\Lessons\ConstData\bin\Debug\net9.0\ConstData.runtimeconfig.json
+C:\Coding Space\C#\Lessons\ConstData\bin\Debug\net9.0\ConstData.dll
+C:\Coding Space\C#\Lessons\ConstData\bin\Debug\net9.0\ConstData.pdb
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\ConstData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\ConstData.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\ConstData.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\ConstData.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\ConstData.dll
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\refint\ConstData.dll
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\ConstData.pdb
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\ConstData.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\ConstData\obj\Debug\net9.0\ref\ConstData.dll

@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\ObjectInitializers\bin\Debug\net9.0\ObjectInitializers.exe
+C:\Coding Space\C#\Lessons\ObjectInitializers\bin\Debug\net9.0\ObjectInitializers.deps.json
+C:\Coding Space\C#\Lessons\ObjectInitializers\bin\Debug\net9.0\ObjectInitializers.runtimeconfig.json
+C:\Coding Space\C#\Lessons\ObjectInitializers\bin\Debug\net9.0\ObjectInitializers.dll
+C:\Coding Space\C#\Lessons\ObjectInitializers\bin\Debug\net9.0\ObjectInitializers.pdb
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\ObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\ObjectInitializers.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\ObjectInitializers.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\ObjectInitializers.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\ObjectInitializers.dll
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\refint\ObjectInitializers.dll
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\ObjectInitializers.pdb
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\ObjectInitializers.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\ObjectInitializers\obj\Debug\net9.0\ref\ObjectInitializers.dll

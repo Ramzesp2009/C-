@@ -1,0 +1,7 @@
+C:\Coding Space\C#\Lessons\Lessons\bin\Debug\Lessons.exe.config
+C:\Coding Space\C#\Lessons\Lessons\bin\Debug\Lessons.exe
+C:\Coding Space\C#\Lessons\Lessons\bin\Debug\Lessons.pdb
+C:\Coding Space\C#\Lessons\Lessons\obj\Debug\Lessons.csproj.AssemblyReference.cache
+C:\Coding Space\C#\Lessons\Lessons\obj\Debug\Lessons.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\Lessons\obj\Debug\Lessons.exe
+C:\Coding Space\C#\Lessons\Lessons\obj\Debug\Lessons.pdb

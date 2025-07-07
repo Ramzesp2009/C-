@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\InterfaceAsType\bin\Debug\net9.0\InterfaceAsType.exe
+C:\Coding Space\C#\Lessons\InterfaceAsType\bin\Debug\net9.0\InterfaceAsType.deps.json
+C:\Coding Space\C#\Lessons\InterfaceAsType\bin\Debug\net9.0\InterfaceAsType.runtimeconfig.json
+C:\Coding Space\C#\Lessons\InterfaceAsType\bin\Debug\net9.0\InterfaceAsType.dll
+C:\Coding Space\C#\Lessons\InterfaceAsType\bin\Debug\net9.0\InterfaceAsType.pdb
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\InterfaceAsType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\InterfaceAsType.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\InterfaceAsType.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\InterfaceAsType.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\InterfaceAsType.dll
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\refint\InterfaceAsType.dll
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\InterfaceAsType.pdb
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\InterfaceAsType.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\InterfaceAsType\obj\Debug\net9.0\ref\InterfaceAsType.dll

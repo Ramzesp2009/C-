@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\FunWithTuples\bin\Debug\net9.0\FunWithTuples.exe
+C:\Coding Space\C#\Lessons\FunWithTuples\bin\Debug\net9.0\FunWithTuples.deps.json
+C:\Coding Space\C#\Lessons\FunWithTuples\bin\Debug\net9.0\FunWithTuples.runtimeconfig.json
+C:\Coding Space\C#\Lessons\FunWithTuples\bin\Debug\net9.0\FunWithTuples.dll
+C:\Coding Space\C#\Lessons\FunWithTuples\bin\Debug\net9.0\FunWithTuples.pdb
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\FunWithTuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\FunWithTuples.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\FunWithTuples.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\FunWithTuples.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\FunWithTuples.dll
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\refint\FunWithTuples.dll
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\FunWithTuples.pdb
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\FunWithTuples.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\FunWithTuples\obj\Debug\net9.0\ref\FunWithTuples.dll

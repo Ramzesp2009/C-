@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\bin\Debug\net9.0\FunWithBitwiseOperations.exe
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\bin\Debug\net9.0\FunWithBitwiseOperations.deps.json
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\bin\Debug\net9.0\FunWithBitwiseOperations.runtimeconfig.json
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\bin\Debug\net9.0\FunWithBitwiseOperations.dll
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\bin\Debug\net9.0\FunWithBitwiseOperations.pdb
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\FunWithBitwiseOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\FunWithBitwiseOperations.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\FunWithBitwiseOperations.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\FunWithBitwiseOperations.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\FunWithBitwiseOperations.dll
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\refint\FunWithBitwiseOperations.dll
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\FunWithBitwiseOperations.pdb
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\FunWithBitwiseOperations.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\FunWithBitwiseOperations\obj\Debug\net9.0\ref\FunWithBitwiseOperations.dll

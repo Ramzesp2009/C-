@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\SimpleClassExemple\bin\Debug\net9.0\SimpleClassExample.exe
+C:\Coding Space\C#\Lessons\SimpleClassExemple\bin\Debug\net9.0\SimpleClassExample.deps.json
+C:\Coding Space\C#\Lessons\SimpleClassExemple\bin\Debug\net9.0\SimpleClassExample.runtimeconfig.json
+C:\Coding Space\C#\Lessons\SimpleClassExemple\bin\Debug\net9.0\SimpleClassExample.dll
+C:\Coding Space\C#\Lessons\SimpleClassExemple\bin\Debug\net9.0\SimpleClassExample.pdb
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\SimpleClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\SimpleClassExample.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\SimpleClassExample.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\SimpleClassExample.dll
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\refint\SimpleClassExample.dll
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\SimpleClassExample.pdb
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\SimpleClassExample.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\SimpleClassExemple\obj\Debug\net9.0\ref\SimpleClassExample.dll

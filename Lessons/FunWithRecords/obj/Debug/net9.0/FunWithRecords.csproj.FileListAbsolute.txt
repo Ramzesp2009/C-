@@ -1,0 +1,14 @@
+C:\Coding Space\C#\Lessons\FunWithRecords\bin\Debug\net9.0\FunWithRecords.exe
+C:\Coding Space\C#\Lessons\FunWithRecords\bin\Debug\net9.0\FunWithRecords.deps.json
+C:\Coding Space\C#\Lessons\FunWithRecords\bin\Debug\net9.0\FunWithRecords.runtimeconfig.json
+C:\Coding Space\C#\Lessons\FunWithRecords\bin\Debug\net9.0\FunWithRecords.dll
+C:\Coding Space\C#\Lessons\FunWithRecords\bin\Debug\net9.0\FunWithRecords.pdb
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\FunWithRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\FunWithRecords.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\FunWithRecords.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\FunWithRecords.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\FunWithRecords.dll
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\refint\FunWithRecords.dll
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\FunWithRecords.pdb
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\FunWithRecords.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\FunWithRecords\obj\Debug\net9.0\ref\FunWithRecords.dll
