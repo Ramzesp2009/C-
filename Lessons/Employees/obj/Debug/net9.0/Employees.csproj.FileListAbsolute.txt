@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\Employees\bin\Debug\net9.0\Employees.exe
+C:\Coding Space\C#\Lessons\Employees\bin\Debug\net9.0\Employees.deps.json
+C:\Coding Space\C#\Lessons\Employees\bin\Debug\net9.0\Employees.runtimeconfig.json
+C:\Coding Space\C#\Lessons\Employees\bin\Debug\net9.0\Employees.dll
+C:\Coding Space\C#\Lessons\Employees\bin\Debug\net9.0\Employees.pdb
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\Employees.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\Employees.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\Employees.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\Employees.sourcelink.json
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\Employees.dll
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\refint\Employees.dll
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\Employees.pdb
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\Employees.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\Employees\obj\Debug\net9.0\ref\Employees.dll

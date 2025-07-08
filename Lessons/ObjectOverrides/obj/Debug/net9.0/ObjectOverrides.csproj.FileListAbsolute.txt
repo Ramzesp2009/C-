@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\ObjectOverrides\bin\Debug\net9.0\ObjectOverrides.exe
+C:\Coding Space\C#\Lessons\ObjectOverrides\bin\Debug\net9.0\ObjectOverrides.deps.json
+C:\Coding Space\C#\Lessons\ObjectOverrides\bin\Debug\net9.0\ObjectOverrides.runtimeconfig.json
+C:\Coding Space\C#\Lessons\ObjectOverrides\bin\Debug\net9.0\ObjectOverrides.dll
+C:\Coding Space\C#\Lessons\ObjectOverrides\bin\Debug\net9.0\ObjectOverrides.pdb
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ObjectOverrides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ObjectOverrides.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ObjectOverrides.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ObjectOverrides.sourcelink.json
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ObjectOverrides.dll
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\refint\ObjectOverrides.dll
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ObjectOverrides.pdb
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ObjectOverrides.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\ObjectOverrides\obj\Debug\net9.0\ref\ObjectOverrides.dll

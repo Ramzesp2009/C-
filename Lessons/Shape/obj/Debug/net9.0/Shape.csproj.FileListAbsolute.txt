@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\Shape\bin\Debug\net9.0\Shape.exe
+C:\Coding Space\C#\Lessons\Shape\bin\Debug\net9.0\Shape.deps.json
+C:\Coding Space\C#\Lessons\Shape\bin\Debug\net9.0\Shape.runtimeconfig.json
+C:\Coding Space\C#\Lessons\Shape\bin\Debug\net9.0\Shape.dll
+C:\Coding Space\C#\Lessons\Shape\bin\Debug\net9.0\Shape.pdb
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\Shape.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\Shape.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\Shape.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\Shape.sourcelink.json
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\Shape.dll
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\refint\Shape.dll
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\Shape.pdb
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\Shape.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\Shape\obj\Debug\net9.0\ref\Shape.dll

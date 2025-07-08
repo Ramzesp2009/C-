@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\RecordInheritance\bin\Debug\net9.0\RecordInheritance.exe
+C:\Coding Space\C#\Lessons\RecordInheritance\bin\Debug\net9.0\RecordInheritance.deps.json
+C:\Coding Space\C#\Lessons\RecordInheritance\bin\Debug\net9.0\RecordInheritance.runtimeconfig.json
+C:\Coding Space\C#\Lessons\RecordInheritance\bin\Debug\net9.0\RecordInheritance.dll
+C:\Coding Space\C#\Lessons\RecordInheritance\bin\Debug\net9.0\RecordInheritance.pdb
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\RecordInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\RecordInheritance.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\RecordInheritance.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\RecordInheritance.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\RecordInheritance.sourcelink.json
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\RecordInheritance.dll
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\refint\RecordInheritance.dll
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\RecordInheritance.pdb
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\RecordInheritance.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\RecordInheritance\obj\Debug\net9.0\ref\RecordInheritance.dll

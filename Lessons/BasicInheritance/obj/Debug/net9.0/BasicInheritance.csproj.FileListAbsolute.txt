@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\BasicInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\BasicInheritance.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\BasicInheritance.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\BasicInheritance.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\BasicInheritance.sourcelink.json
+C:\Coding Space\C#\Lessons\BasicInheritance\bin\Debug\net9.0\BasicInheritance.exe
+C:\Coding Space\C#\Lessons\BasicInheritance\bin\Debug\net9.0\BasicInheritance.deps.json
+C:\Coding Space\C#\Lessons\BasicInheritance\bin\Debug\net9.0\BasicInheritance.runtimeconfig.json
+C:\Coding Space\C#\Lessons\BasicInheritance\bin\Debug\net9.0\BasicInheritance.dll
+C:\Coding Space\C#\Lessons\BasicInheritance\bin\Debug\net9.0\BasicInheritance.pdb
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\BasicInheritance.dll
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\refint\BasicInheritance.dll
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\BasicInheritance.pdb
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\BasicInheritance.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\BasicInheritance\obj\Debug\net9.0\ref\BasicInheritance.dll

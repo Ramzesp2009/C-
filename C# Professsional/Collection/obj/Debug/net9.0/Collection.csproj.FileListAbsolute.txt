@@ -1,0 +1,15 @@
+C:\Coding Space\C#\C# Professsional\Collection\bin\Debug\net9.0\Collection.exe
+C:\Coding Space\C#\C# Professsional\Collection\bin\Debug\net9.0\Collection.deps.json
+C:\Coding Space\C#\C# Professsional\Collection\bin\Debug\net9.0\Collection.runtimeconfig.json
+C:\Coding Space\C#\C# Professsional\Collection\bin\Debug\net9.0\Collection.dll
+C:\Coding Space\C#\C# Professsional\Collection\bin\Debug\net9.0\Collection.pdb
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\Collection.AssemblyInfoInputs.cache
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\Collection.AssemblyInfo.cs
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\Collection.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\Collection.sourcelink.json
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\Collection.dll
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\refint\Collection.dll
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\Collection.pdb
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\Collection.genruntimeconfig.cache
+C:\Coding Space\C#\C# Professsional\Collection\obj\Debug\net9.0\ref\Collection.dll

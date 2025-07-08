@@ -1,0 +1,15 @@
+C:\Coding Space\C#\C# Professsional\C# Professsional\bin\Debug\net9.0\C# Professsional.exe
+C:\Coding Space\C#\C# Professsional\C# Professsional\bin\Debug\net9.0\C# Professsional.deps.json
+C:\Coding Space\C#\C# Professsional\C# Professsional\bin\Debug\net9.0\C# Professsional.runtimeconfig.json
+C:\Coding Space\C#\C# Professsional\C# Professsional\bin\Debug\net9.0\C# Professsional.dll
+C:\Coding Space\C#\C# Professsional\C# Professsional\bin\Debug\net9.0\C# Professsional.pdb
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\C# Professsional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\C# Professsional.AssemblyInfoInputs.cache
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\C# Professsional.AssemblyInfo.cs
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\C# Professsional.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\C# Professsional.sourcelink.json
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\C# Professsional.dll
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\refint\C# Professsional.dll
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\C# Professsional.pdb
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\C# Professsional.genruntimeconfig.cache
+C:\Coding Space\C#\C# Professsional\C# Professsional\obj\Debug\net9.0\ref\C# Professsional.dll
