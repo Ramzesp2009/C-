@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\SimpleException\bin\Debug\net9.0\SimpleException.exe
+C:\Coding Space\C#\Lessons\SimpleException\bin\Debug\net9.0\SimpleException.deps.json
+C:\Coding Space\C#\Lessons\SimpleException\bin\Debug\net9.0\SimpleException.runtimeconfig.json
+C:\Coding Space\C#\Lessons\SimpleException\bin\Debug\net9.0\SimpleException.dll
+C:\Coding Space\C#\Lessons\SimpleException\bin\Debug\net9.0\SimpleException.pdb
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\SimpleException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\SimpleException.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\SimpleException.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\SimpleException.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\SimpleException.sourcelink.json
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\SimpleException.dll
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\refint\SimpleException.dll
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\SimpleException.pdb
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\SimpleException.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\SimpleException\obj\Debug\net9.0\ref\SimpleException.dll

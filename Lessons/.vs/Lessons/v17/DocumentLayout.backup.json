@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E83C2B16-F914-4A30-9633-426650CB83BA}|ObjectOverrides\\ObjectOverrides.csproj|c:\\coding space\\c#\\lessons\\objectoverrides\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E83C2B16-F914-4A30-9633-426650CB83BA}|ObjectOverrides\\ObjectOverrides.csproj|solutionrelative:objectoverrides\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|c:\\coding space\\c#\\lessons\\customexception\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|solutionrelative:customexception\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E83C2B16-F914-4A30-9633-426650CB83BA}|ObjectOverrides\\ObjectOverrides.csproj|c:\\coding space\\c#\\lessons\\objectoverrides\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E83C2B16-F914-4A30-9633-426650CB83BA}|ObjectOverrides\\ObjectOverrides.csproj|solutionrelative:objectoverrides\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|c:\\coding space\\c#\\lessons\\customexception\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|solutionrelative:customexception\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|c:\\coding space\\c#\\lessons\\customexception\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|solutionrelative:customexception\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|c:\\coding space\\c#\\lessons\\customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|solutionrelative:customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1395,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ObjectOverrides\\Person.cs",
-              "RelativeDocumentMoniker": "ObjectOverrides\\Person.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ObjectOverrides\\Person.cs",
-              "RelativeToolTip": "ObjectOverrides\\Person.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowCMAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CarIsDeadException.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\CustomException\\CarIsDeadException.cs",
+              "RelativeDocumentMoniker": "CustomException\\CarIsDeadException.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\CustomException\\CarIsDeadException.cs",
+              "RelativeToolTip": "CustomException\\CarIsDeadException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:03:58.929Z",
+              "WhenOpened": "2025-07-09T12:47:07.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Radio.cs",
+              "RelativeDocumentMoniker": "CustomException\\Radio.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Radio.cs",
+              "RelativeToolTip": "CustomException\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:46:41.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ObjectOverrides\\Program.cs",
-              "RelativeDocumentMoniker": "ObjectOverrides\\Program.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ObjectOverrides\\Program.cs",
-              "RelativeToolTip": "ObjectOverrides\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Car.cs",
+              "RelativeDocumentMoniker": "CustomException\\Car.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Car.cs",
+              "RelativeToolTip": "CustomException\\Car.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T12:00:52.78Z",
+              "WhenOpened": "2025-07-09T12:46:14.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Program.cs",
+              "RelativeDocumentMoniker": "CustomException\\Program.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Program.cs",
+              "RelativeToolTip": "CustomException\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:45:53.968Z",
               "EditorCaption": ""
             }
           ]
