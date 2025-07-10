@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\ProcessMultipleException\bin\Debug\net9.0\ProcessMultipleException.exe
+C:\Coding Space\C#\Lessons\ProcessMultipleException\bin\Debug\net9.0\ProcessMultipleException.deps.json
+C:\Coding Space\C#\Lessons\ProcessMultipleException\bin\Debug\net9.0\ProcessMultipleException.runtimeconfig.json
+C:\Coding Space\C#\Lessons\ProcessMultipleException\bin\Debug\net9.0\ProcessMultipleException.dll
+C:\Coding Space\C#\Lessons\ProcessMultipleException\bin\Debug\net9.0\ProcessMultipleException.pdb
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ProcessMultipleException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ProcessMultipleException.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ProcessMultipleException.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ProcessMultipleException.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ProcessMultipleException.sourcelink.json
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ProcessMultipleException.dll
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\refint\ProcessMultipleException.dll
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ProcessMultipleException.pdb
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ProcessMultipleException.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\ProcessMultipleException\obj\Debug\net9.0\ref\ProcessMultipleException.dll

@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\InterfaceNameClash\bin\Debug\net9.0\InterfaceNameClash.exe
+C:\Coding Space\C#\Lessons\InterfaceNameClash\bin\Debug\net9.0\InterfaceNameClash.deps.json
+C:\Coding Space\C#\Lessons\InterfaceNameClash\bin\Debug\net9.0\InterfaceNameClash.runtimeconfig.json
+C:\Coding Space\C#\Lessons\InterfaceNameClash\bin\Debug\net9.0\InterfaceNameClash.dll
+C:\Coding Space\C#\Lessons\InterfaceNameClash\bin\Debug\net9.0\InterfaceNameClash.pdb
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\InterfaceNameClash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\InterfaceNameClash.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\InterfaceNameClash.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\InterfaceNameClash.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\InterfaceNameClash.sourcelink.json
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\InterfaceNameClash.dll
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\refint\InterfaceNameClash.dll
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\InterfaceNameClash.pdb
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\InterfaceNameClash.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\InterfaceNameClash\obj\Debug\net9.0\ref\InterfaceNameClash.dll

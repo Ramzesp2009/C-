@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|c:\\coding space\\c#\\lessons\\customexception\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|solutionrelative:customexception\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|c:\\coding space\\c#\\lessons\\interfacehierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|solutionrelative:interfacehierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|c:\\coding space\\c#\\lessons\\customexception\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|solutionrelative:customexception\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|c:\\coding space\\c#\\lessons\\interfacehierarchy\\bitmapimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|solutionrelative:interfacehierarchy\\bitmapimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|c:\\coding space\\c#\\lessons\\customexception\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|solutionrelative:customexception\\carisdeadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|c:\\coding space\\c#\\lessons\\interfacehierarchy\\iadvanceddraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|solutionrelative:interfacehierarchy\\iadvanceddraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|c:\\coding space\\c#\\lessons\\customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBDA26C7-4983-4B7E-9250-6A8F1DE43956}|CustomException\\CustomException.csproj|solutionrelative:customexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|c:\\coding space\\c#\\lessons\\interfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|solutionrelative:interfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1395,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarIsDeadException.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\CustomException\\CarIsDeadException.cs",
-              "RelativeDocumentMoniker": "CustomException\\CarIsDeadException.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\CustomException\\CarIsDeadException.cs",
-              "RelativeToolTip": "CustomException\\CarIsDeadException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:47:07.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Radio.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Radio.cs",
-              "RelativeDocumentMoniker": "CustomException\\Radio.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Radio.cs",
-              "RelativeToolTip": "CustomException\\Radio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "BitmapImage.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\BitmapImage.cs",
+              "RelativeDocumentMoniker": "InterfaceHierarchy\\BitmapImage.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\BitmapImage.cs",
+              "RelativeToolTip": "InterfaceHierarchy\\BitmapImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:46:41.238Z",
+              "WhenOpened": "2025-07-10T09:37:44.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Car.cs",
-              "RelativeDocumentMoniker": "CustomException\\Car.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Car.cs",
-              "RelativeToolTip": "CustomException\\Car.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwDQAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IAdvancedDraw.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\IAdvancedDraw.cs",
+              "RelativeDocumentMoniker": "InterfaceHierarchy\\IAdvancedDraw.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\IAdvancedDraw.cs",
+              "RelativeToolTip": "InterfaceHierarchy\\IAdvancedDraw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:46:14.926Z",
+              "WhenOpened": "2025-07-10T09:36:06.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Program.cs",
-              "RelativeDocumentMoniker": "CustomException\\Program.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\CustomException\\Program.cs",
-              "RelativeToolTip": "CustomException\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Title": "IDrawable.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\IDrawable.cs",
+              "RelativeDocumentMoniker": "InterfaceHierarchy\\IDrawable.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\IDrawable.cs",
+              "RelativeToolTip": "InterfaceHierarchy\\IDrawable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:45:53.968Z",
+              "WhenOpened": "2025-07-10T09:35:27.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceHierarchy\\Program.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\Program.cs",
+              "RelativeToolTip": "InterfaceHierarchy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T09:35:05.784Z",
               "EditorCaption": ""
             }
           ]

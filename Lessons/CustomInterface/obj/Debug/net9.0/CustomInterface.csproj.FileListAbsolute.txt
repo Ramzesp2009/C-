@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\CustomInterface\bin\Debug\net9.0\CustomInterface.exe
+C:\Coding Space\C#\Lessons\CustomInterface\bin\Debug\net9.0\CustomInterface.deps.json
+C:\Coding Space\C#\Lessons\CustomInterface\bin\Debug\net9.0\CustomInterface.runtimeconfig.json
+C:\Coding Space\C#\Lessons\CustomInterface\bin\Debug\net9.0\CustomInterface.dll
+C:\Coding Space\C#\Lessons\CustomInterface\bin\Debug\net9.0\CustomInterface.pdb
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\CustomInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\CustomInterface.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\CustomInterface.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\CustomInterface.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\CustomInterface.sourcelink.json
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\CustomInterface.dll
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\refint\CustomInterface.dll
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\CustomInterface.pdb
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\CustomInterface.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\CustomInterface\obj\Debug\net9.0\ref\CustomInterface.dll
