@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\ComparableCar\bin\Debug\net9.0\ComparableCar.exe
+C:\Coding Space\C#\Lessons\ComparableCar\bin\Debug\net9.0\ComparableCar.deps.json
+C:\Coding Space\C#\Lessons\ComparableCar\bin\Debug\net9.0\ComparableCar.runtimeconfig.json
+C:\Coding Space\C#\Lessons\ComparableCar\bin\Debug\net9.0\ComparableCar.dll
+C:\Coding Space\C#\Lessons\ComparableCar\bin\Debug\net9.0\ComparableCar.pdb
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ComparableCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ComparableCar.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ComparableCar.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ComparableCar.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ComparableCar.sourcelink.json
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ComparableCar.dll
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\refint\ComparableCar.dll
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ComparableCar.pdb
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ComparableCar.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\ComparableCar\obj\Debug\net9.0\ref\ComparableCar.dll

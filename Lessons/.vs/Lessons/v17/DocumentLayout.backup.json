@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|c:\\coding space\\c#\\lessons\\interfacehierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|solutionrelative:interfacehierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|c:\\coding space\\c#\\lessons\\comparablecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|c:\\coding space\\c#\\lessons\\interfacehierarchy\\bitmapimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|solutionrelative:interfacehierarchy\\bitmapimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|c:\\coding space\\c#\\lessons\\comparablecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|c:\\coding space\\c#\\lessons\\interfacehierarchy\\iadvanceddraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|solutionrelative:interfacehierarchy\\iadvanceddraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|c:\\coding space\\c#\\lessons\\comparablecar\\petnamecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\petnamecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|c:\\coding space\\c#\\lessons\\interfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D3DB366-5E32-4E99-A8BC-57A9CD6FF1BA}|InterfaceHierarchy\\InterfaceHierarchy.csproj|solutionrelative:interfacehierarchy\\idrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|c:\\coding space\\c#\\lessons\\comparablecar\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,54 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BitmapImage.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\BitmapImage.cs",
-              "RelativeDocumentMoniker": "InterfaceHierarchy\\BitmapImage.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\BitmapImage.cs",
-              "RelativeToolTip": "InterfaceHierarchy\\BitmapImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:37:44.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IAdvancedDraw.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\IAdvancedDraw.cs",
-              "RelativeDocumentMoniker": "InterfaceHierarchy\\IAdvancedDraw.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\IAdvancedDraw.cs",
-              "RelativeToolTip": "InterfaceHierarchy\\IAdvancedDraw.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Title": "PetNameComparer.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\PetNameComparer.cs",
+              "RelativeDocumentMoniker": "ComparableCar\\PetNameComparer.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\PetNameComparer.cs",
+              "RelativeToolTip": "ComparableCar\\PetNameComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:36:06.998Z",
+              "WhenOpened": "2025-07-11T11:37:10.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IDrawable.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\IDrawable.cs",
-              "RelativeDocumentMoniker": "InterfaceHierarchy\\IDrawable.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\IDrawable.cs",
-              "RelativeToolTip": "InterfaceHierarchy\\IDrawable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Title": "Radio.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Radio.cs",
+              "RelativeDocumentMoniker": "ComparableCar\\Radio.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Radio.cs",
+              "RelativeToolTip": "ComparableCar\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:35:27.479Z",
+              "WhenOpened": "2025-07-11T10:37:41.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Car.cs",
+              "RelativeDocumentMoniker": "ComparableCar\\Car.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Car.cs*",
+              "RelativeToolTip": "ComparableCar\\Car.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:37:27.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\Program.cs",
-              "RelativeDocumentMoniker": "InterfaceHierarchy\\Program.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\InterfaceHierarchy\\Program.cs",
-              "RelativeToolTip": "InterfaceHierarchy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Program.cs",
+              "RelativeDocumentMoniker": "ComparableCar\\Program.cs",
+              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Program.cs*",
+              "RelativeToolTip": "ComparableCar\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T09:35:05.784Z",
+              "WhenOpened": "2025-07-11T10:36:39.096Z",
               "EditorCaption": ""
             }
           ]

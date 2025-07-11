@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\bin\Debug\net9.0\CustomEnumeratorWithYield.exe
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\bin\Debug\net9.0\CustomEnumeratorWithYield.deps.json
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\bin\Debug\net9.0\CustomEnumeratorWithYield.runtimeconfig.json
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\bin\Debug\net9.0\CustomEnumeratorWithYield.dll
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\bin\Debug\net9.0\CustomEnumeratorWithYield.pdb
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\CustomEnumeratorWithYield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\CustomEnumeratorWithYield.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\CustomEnumeratorWithYield.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\CustomEnumeratorWithYield.sourcelink.json
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\CustomEnumeratorWithYield.dll
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\refint\CustomEnumeratorWithYield.dll
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\CustomEnumeratorWithYield.pdb
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\CustomEnumeratorWithYield.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\CustomEnumeratorWithYield\obj\Debug\net9.0\ref\CustomEnumeratorWithYield.dll

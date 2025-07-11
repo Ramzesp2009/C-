@@ -7,4 +7,8 @@ myBitmap.DrawInBoundingBox(10, 10, 100, 150);
 myBitmap.DrawUpsideDown();
 
 if (myBitmap is IAdvancedDraw iAdvDraw)
+{
     iAdvDraw.DrawUpsideDown();
+    Console.WriteLine($"Time to draw: {iAdvDraw.TimeToDraw()}");
+}
+Console.WriteLine(myBitmap.TimeToDraw());

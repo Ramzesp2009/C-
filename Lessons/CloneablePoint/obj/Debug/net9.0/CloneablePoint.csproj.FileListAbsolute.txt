@@ -1,0 +1,15 @@
+C:\Coding Space\C#\Lessons\CloneablePoint\bin\Debug\net9.0\CloneablePoint.exe
+C:\Coding Space\C#\Lessons\CloneablePoint\bin\Debug\net9.0\CloneablePoint.deps.json
+C:\Coding Space\C#\Lessons\CloneablePoint\bin\Debug\net9.0\CloneablePoint.runtimeconfig.json
+C:\Coding Space\C#\Lessons\CloneablePoint\bin\Debug\net9.0\CloneablePoint.dll
+C:\Coding Space\C#\Lessons\CloneablePoint\bin\Debug\net9.0\CloneablePoint.pdb
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\CloneablePoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\CloneablePoint.AssemblyInfoInputs.cache
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\CloneablePoint.AssemblyInfo.cs
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\CloneablePoint.csproj.CoreCompileInputs.cache
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\CloneablePoint.sourcelink.json
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\CloneablePoint.dll
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\refint\CloneablePoint.dll
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\CloneablePoint.pdb
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\CloneablePoint.genruntimeconfig.cache
+C:\Coding Space\C#\Lessons\CloneablePoint\obj\Debug\net9.0\ref\CloneablePoint.dll
