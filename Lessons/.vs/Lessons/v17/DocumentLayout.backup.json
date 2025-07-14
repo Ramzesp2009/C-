@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Coding Space\\C#\\Lessons\\",
+  "WorkspaceRootPath": "D:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|c:\\coding space\\c#\\lessons\\comparablecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|c:\\coding space\\c#\\lessons\\comparablecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|c:\\coding space\\c#\\lessons\\comparablecar\\petnamecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\petnamecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|c:\\coding space\\c#\\lessons\\comparablecar\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{382B85A1-1047-4CB8-AFA9-6DDD51AD76DA}|ComparableCar\\ComparableCar.csproj|solutionrelative:comparablecar\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding Space\\C#\\Lessons\\SimpleFinalize\\MyReaourceWrapper.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimpleFinalize\\MyReaourceWrapper.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1395,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,59 +25,16 @@
               "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PetNameComparer.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\PetNameComparer.cs",
-              "RelativeDocumentMoniker": "ComparableCar\\PetNameComparer.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\PetNameComparer.cs",
-              "RelativeToolTip": "ComparableCar\\PetNameComparer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T11:37:10.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Radio.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Radio.cs",
-              "RelativeDocumentMoniker": "ComparableCar\\Radio.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Radio.cs",
-              "RelativeToolTip": "ComparableCar\\Radio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T10:37:41.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Car.cs",
-              "RelativeDocumentMoniker": "ComparableCar\\Car.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Car.cs*",
-              "RelativeToolTip": "ComparableCar\\Car.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T10:37:27.047Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Program.cs",
-              "RelativeDocumentMoniker": "ComparableCar\\Program.cs",
-              "ToolTip": "C:\\Coding Space\\C#\\Lessons\\ComparableCar\\Program.cs*",
-              "RelativeToolTip": "ComparableCar\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Title": "MyReaourceWrapper.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\SimpleFinalize\\MyReaourceWrapper.cs",
+              "RelativeDocumentMoniker": "SimpleFinalize\\MyReaourceWrapper.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\SimpleFinalize\\MyReaourceWrapper.cs",
+              "RelativeToolTip": "SimpleFinalize\\MyReaourceWrapper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T10:36:39.096Z",
+              "WhenOpened": "2025-07-13T11:41:55.54Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\SimpleGC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\SimpleGC.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\SimpleGC.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\SimpleGC.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\SimpleGC.sourcelink.json
+D:\Coding Space\C#\Lessons\SimpleGC\bin\Debug\net9.0\SimpleGC.exe
+D:\Coding Space\C#\Lessons\SimpleGC\bin\Debug\net9.0\SimpleGC.deps.json
+D:\Coding Space\C#\Lessons\SimpleGC\bin\Debug\net9.0\SimpleGC.runtimeconfig.json
+D:\Coding Space\C#\Lessons\SimpleGC\bin\Debug\net9.0\SimpleGC.dll
+D:\Coding Space\C#\Lessons\SimpleGC\bin\Debug\net9.0\SimpleGC.pdb
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\SimpleGC.dll
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\refint\SimpleGC.dll
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\SimpleGC.pdb
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\SimpleGC.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\SimpleGC\obj\Debug\net9.0\ref\SimpleGC.dll
