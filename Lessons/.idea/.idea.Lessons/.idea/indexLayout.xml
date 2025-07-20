@@ -2,7 +2,18 @@
 <project version="4">
   <component name="UserContentModel">
     <attachedFolders />
-    <explicitIncludes />
+    <explicitIncludes>
+      <Path>.idea</Path>
+      <Path>.vs</Path>
+      <Path>Benchmark</Path>
+      <Path>LazyObjectInstantiation</Path>
+      <Path>Lesson_2</Path>
+      <Path>Lesson_3</Path>
+      <Path>Lesson_4</Path>
+      <Path>Lessons.slnLaunch.user</Path>
+      <Path>ProjectVisualStudio/Program.cs</Path>
+      <Path>ProjectVisualStudio/ProjectVisualStudio.csproj</Path>
+    </explicitIncludes>
     <explicitExcludes />
   </component>
 </project>

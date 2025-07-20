@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunWithBitwiseOperations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f56ed8e85ecbe0ab752154a22180eec2d89e072e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+612bc5a1ddb95d9b5738796c3f2433fe21b7d5f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunWithBitwiseOperations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunWithBitwiseOperations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

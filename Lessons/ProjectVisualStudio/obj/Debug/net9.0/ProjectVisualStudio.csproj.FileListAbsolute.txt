@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\bin\Debug\net9.0\ProjectVisualStudio.exe
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\bin\Debug\net9.0\ProjectVisualStudio.deps.json
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\bin\Debug\net9.0\ProjectVisualStudio.runtimeconfig.json
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\bin\Debug\net9.0\ProjectVisualStudio.dll
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\bin\Debug\net9.0\ProjectVisualStudio.pdb
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ProjectVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ProjectVisualStudio.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ProjectVisualStudio.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ProjectVisualStudio.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ProjectVisualStudio.sourcelink.json
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ProjectVisualStudio.dll
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\refint\ProjectVisualStudio.dll
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ProjectVisualStudio.pdb
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ProjectVisualStudio.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\ProjectVisualStudio\obj\Debug\net9.0\ref\ProjectVisualStudio.dll

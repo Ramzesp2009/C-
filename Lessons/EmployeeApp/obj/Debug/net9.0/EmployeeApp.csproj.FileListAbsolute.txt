@@ -12,3 +12,11 @@ C:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\refint\EmployeeApp.dll
 C:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.pdb
 C:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.genruntimeconfig.cache
 C:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\ref\EmployeeApp.dll
+D:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.sourcelink.json
+D:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.dll
+D:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\refint\EmployeeApp.dll
+D:\Coding Space\C#\Lessons\EmployeeApp\obj\Debug\net9.0\EmployeeApp.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MiInterfaceHierarchy/1.0.0": {
+        "runtime": {
+          "MiInterfaceHierarchy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiInterfaceHierarchy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

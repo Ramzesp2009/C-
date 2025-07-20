@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\SimpleFinalize\bin\Debug\net9.0\SimpleFinalize.exe
+D:\Coding Space\C#\Lessons\SimpleFinalize\bin\Debug\net9.0\SimpleFinalize.deps.json
+D:\Coding Space\C#\Lessons\SimpleFinalize\bin\Debug\net9.0\SimpleFinalize.runtimeconfig.json
+D:\Coding Space\C#\Lessons\SimpleFinalize\bin\Debug\net9.0\SimpleFinalize.dll
+D:\Coding Space\C#\Lessons\SimpleFinalize\bin\Debug\net9.0\SimpleFinalize.pdb
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\SimpleFinalize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\SimpleFinalize.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\SimpleFinalize.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\SimpleFinalize.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\SimpleFinalize.sourcelink.json
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\SimpleFinalize.dll
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\refint\SimpleFinalize.dll
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\SimpleFinalize.pdb
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\SimpleFinalize.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\SimpleFinalize\obj\Debug\net9.0\ref\SimpleFinalize.dll

@@ -4,6 +4,6 @@ namespace SimpleFinalize
 {
 	class MyResourceWrapper
 	{
-		protected override void Finalize() { }
-	}
+		~MyResourceWrapper() => Console.Beep();
+    }
 }

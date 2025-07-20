@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Coding Space\\C#\\Lessons\\FunWithRecords\\FunWithRecords.csproj": {}
+    "D:\\Coding Space\\C#\\Lessons\\FunWithRecords\\FunWithRecords.csproj": {}
   },
   "projects": {
-    "C:\\Coding Space\\C#\\Lessons\\FunWithRecords\\FunWithRecords.csproj": {
+    "D:\\Coding Space\\C#\\Lessons\\FunWithRecords\\FunWithRecords.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Coding Space\\C#\\Lessons\\FunWithRecords\\FunWithRecords.csproj",
+        "projectUniqueName": "D:\\Coding Space\\C#\\Lessons\\FunWithRecords\\FunWithRecords.csproj",
         "projectName": "FunWithRecords",
-        "projectPath": "C:\\Coding Space\\C#\\Lessons\\FunWithRecords\\FunWithRecords.csproj",
-        "packagesPath": "C:\\Users\\Umschueler\\.nuget\\packages\\",
-        "outputPath": "C:\\Coding Space\\C#\\Lessons\\FunWithRecords\\obj\\",
+        "projectPath": "D:\\Coding Space\\C#\\Lessons\\FunWithRecords\\FunWithRecords.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding Space\\C#\\Lessons\\FunWithRecords\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Umschueler\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

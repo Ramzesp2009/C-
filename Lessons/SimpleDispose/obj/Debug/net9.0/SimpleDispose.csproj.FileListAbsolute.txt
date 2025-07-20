@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\SimpleDispose\bin\Debug\net9.0\SimpleDispose.exe
+D:\Coding Space\C#\Lessons\SimpleDispose\bin\Debug\net9.0\SimpleDispose.deps.json
+D:\Coding Space\C#\Lessons\SimpleDispose\bin\Debug\net9.0\SimpleDispose.runtimeconfig.json
+D:\Coding Space\C#\Lessons\SimpleDispose\bin\Debug\net9.0\SimpleDispose.dll
+D:\Coding Space\C#\Lessons\SimpleDispose\bin\Debug\net9.0\SimpleDispose.pdb
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\SimpleDispose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\SimpleDispose.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\SimpleDispose.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\SimpleDispose.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\SimpleDispose.sourcelink.json
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\SimpleDispose.dll
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\refint\SimpleDispose.dll
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\SimpleDispose.pdb
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\SimpleDispose.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\SimpleDispose\obj\Debug\net9.0\ref\SimpleDispose.dll

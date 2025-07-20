@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding Space\\C#\\Lessons\\SimpleFinalize\\MyReaourceWrapper.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SimpleFinalize\\MyReaourceWrapper.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding Space\\C#\\Lessons\\ProjectFromRider\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFromRider\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D35307B-B050-4810-BEA7-FEEBFB406FEE}|ProjectVisualStudio\\ProjectVisualStudio.csproj|d:\\coding space\\c#\\lessons\\projectvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D35307B-B050-4810-BEA7-FEEBFB406FEE}|ProjectVisualStudio\\ProjectVisualStudio.csproj|solutionrelative:projectvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1395,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyReaourceWrapper.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\SimpleFinalize\\MyReaourceWrapper.cs",
-              "RelativeDocumentMoniker": "SimpleFinalize\\MyReaourceWrapper.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\SimpleFinalize\\MyReaourceWrapper.cs",
-              "RelativeToolTip": "SimpleFinalize\\MyReaourceWrapper.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ProjectVisualStudio\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectVisualStudio\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ProjectVisualStudio\\Program.cs",
+              "RelativeToolTip": "ProjectVisualStudio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T11:41:55.54Z",
+              "WhenOpened": "2025-07-19T15:45:35.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ProjectFromRider\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectFromRider\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ProjectFromRider\\Program.cs",
+              "RelativeToolTip": "ProjectFromRider\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:42:26.667Z",
               "EditorCaption": ""
             }
           ]

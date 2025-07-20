@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\bin\Debug\net9.0\MiInterfaceHierarchy.exe
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\bin\Debug\net9.0\MiInterfaceHierarchy.deps.json
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\bin\Debug\net9.0\MiInterfaceHierarchy.runtimeconfig.json
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\bin\Debug\net9.0\MiInterfaceHierarchy.dll
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\bin\Debug\net9.0\MiInterfaceHierarchy.pdb
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\MiInterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\MiInterfaceHierarchy.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\MiInterfaceHierarchy.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\MiInterfaceHierarchy.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\MiInterfaceHierarchy.sourcelink.json
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\MiInterfaceHierarchy.dll
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\refint\MiInterfaceHierarchy.dll
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\MiInterfaceHierarchy.pdb
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\MiInterfaceHierarchy.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\MiInterfaceHierarchy\obj\Debug\net9.0\ref\MiInterfaceHierarchy.dll

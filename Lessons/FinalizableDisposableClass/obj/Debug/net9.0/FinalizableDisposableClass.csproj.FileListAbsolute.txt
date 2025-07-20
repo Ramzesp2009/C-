@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\FinalizableDisposableClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\FinalizableDisposableClass.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\FinalizableDisposableClass.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\FinalizableDisposableClass.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\FinalizableDisposableClass.sourcelink.json
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\bin\Debug\net9.0\FinalizableDisposableClass.exe
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\bin\Debug\net9.0\FinalizableDisposableClass.deps.json
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\bin\Debug\net9.0\FinalizableDisposableClass.runtimeconfig.json
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\bin\Debug\net9.0\FinalizableDisposableClass.dll
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\bin\Debug\net9.0\FinalizableDisposableClass.pdb
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\FinalizableDisposableClass.dll
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\refint\FinalizableDisposableClass.dll
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\FinalizableDisposableClass.pdb
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\FinalizableDisposableClass.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\FinalizableDisposableClass\obj\Debug\net9.0\ref\FinalizableDisposableClass.dll

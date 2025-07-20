@@ -2,3 +2,8 @@ C:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWit
 C:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWithNullableReferenceTypes.AssemblyInfoInputs.cache
 C:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWithNullableReferenceTypes.AssemblyInfo.cs
 C:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWithNullableReferenceTypes.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWithNullableReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWithNullableReferenceTypes.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWithNullableReferenceTypes.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWithNullableReferenceTypes.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\FunWithNullableReferenceTypes\obj\Debug\net9.0\FunWithNullableReferenceTypes.sourcelink.json
