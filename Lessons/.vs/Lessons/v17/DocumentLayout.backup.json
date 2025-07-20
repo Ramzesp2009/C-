@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Coding Space\\C#\\Lessons\\ProjectFromRider\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectFromRider\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|d:\\coding space\\c#\\lessons\\issueswithnongenriccollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|solutionrelative:issueswithnongenriccollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D35307B-B050-4810-BEA7-FEEBFB406FEE}|ProjectVisualStudio\\ProjectVisualStudio.csproj|d:\\coding space\\c#\\lessons\\projectvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D35307B-B050-4810-BEA7-FEEBFB406FEE}|ProjectVisualStudio\\ProjectVisualStudio.csproj|solutionrelative:projectvisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|d:\\coding space\\c#\\lessons\\issueswithnongenriccollections\\intcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|solutionrelative:issueswithnongenriccollections\\intcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|d:\\coding space\\c#\\lessons\\issueswithnongenriccollections\\carcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|solutionrelative:issueswithnongenriccollections\\carcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|d:\\coding space\\c#\\lessons\\issueswithnongenriccollections\\personcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|solutionrelative:issueswithnongenriccollections\\personcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|d:\\coding space\\c#\\lessons\\issueswithnongenriccollections\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B20A6D0-B59C-4BC0-8BB4-7EE38981BB3E}|IssuesWithNongenricCollections\\IssuesWithNongenricCollections.csproj|solutionrelative:issueswithnongenriccollections\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1395,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,27 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ProjectVisualStudio\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectVisualStudio\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ProjectVisualStudio\\Program.cs",
-              "RelativeToolTip": "ProjectVisualStudio\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Title": "IntCollection.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\IntCollection.cs",
+              "RelativeDocumentMoniker": "IssuesWithNongenricCollections\\IntCollection.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\IntCollection.cs",
+              "RelativeToolTip": "IssuesWithNongenricCollections\\IntCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T15:45:35.486Z",
+              "WhenOpened": "2025-07-20T13:20:46.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarCollection.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\CarCollection.cs",
+              "RelativeDocumentMoniker": "IssuesWithNongenricCollections\\CarCollection.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\CarCollection.cs",
+              "RelativeToolTip": "IssuesWithNongenricCollections\\CarCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:16:27.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonCollection.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\PersonCollection.cs",
+              "RelativeDocumentMoniker": "IssuesWithNongenricCollections\\PersonCollection.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\PersonCollection.cs",
+              "RelativeToolTip": "IssuesWithNongenricCollections\\PersonCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:00:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\Person.cs",
+              "RelativeDocumentMoniker": "IssuesWithNongenricCollections\\Person.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\Person.cs",
+              "RelativeToolTip": "IssuesWithNongenricCollections\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:53:35.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ProjectFromRider\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectFromRider\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ProjectFromRider\\Program.cs",
-              "RelativeToolTip": "ProjectFromRider\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\Program.cs",
+              "RelativeDocumentMoniker": "IssuesWithNongenricCollections\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\IssuesWithNongenricCollections\\Program.cs",
+              "RelativeToolTip": "IssuesWithNongenricCollections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T15:42:26.667Z",
+              "WhenOpened": "2025-07-20T12:38:03.034Z",
               "EditorCaption": ""
             }
           ]
