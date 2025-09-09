@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\CarEvents\bin\Debug\net9.0\CarEvents.exe
+D:\Coding Space\C#\Lessons\CarEvents\bin\Debug\net9.0\CarEvents.deps.json
+D:\Coding Space\C#\Lessons\CarEvents\bin\Debug\net9.0\CarEvents.runtimeconfig.json
+D:\Coding Space\C#\Lessons\CarEvents\bin\Debug\net9.0\CarEvents.dll
+D:\Coding Space\C#\Lessons\CarEvents\bin\Debug\net9.0\CarEvents.pdb
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\CarEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\CarEvents.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\CarEvents.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\CarEvents.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\CarEvents.sourcelink.json
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\CarEvents.dll
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\refint\CarEvents.dll
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\CarEvents.pdb
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\CarEvents.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\CarEvents\obj\Debug\net9.0\ref\CarEvents.dll

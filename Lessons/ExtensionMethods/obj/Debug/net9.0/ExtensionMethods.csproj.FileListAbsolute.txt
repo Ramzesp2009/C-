@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.sourcelink.json
+D:\Coding Space\C#\Lessons\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.exe
+D:\Coding Space\C#\Lessons\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.deps.json
+D:\Coding Space\C#\Lessons\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.runtimeconfig.json
+D:\Coding Space\C#\Lessons\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.dll
+D:\Coding Space\C#\Lessons\ExtensionMethods\bin\Debug\net9.0\ExtensionMethods.pdb
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.dll
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\refint\ExtensionMethods.dll
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.pdb
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ExtensionMethods.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\ExtensionMethods\obj\Debug\net9.0\ref\ExtensionMethods.dll

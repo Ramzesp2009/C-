@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.exe
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.deps.json
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.runtimeconfig.json
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.dll
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\bin\Debug\net9.0\PublicDelegateProblem.pdb
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.sourcelink.json
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.dll
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\refint\PublicDelegateProblem.dll
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.pdb
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\PublicDelegateProblem.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\PublicDelegateProblem\obj\Debug\net9.0\ref\PublicDelegateProblem.dll

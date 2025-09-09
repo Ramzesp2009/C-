@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\CarDelegate\bin\Debug\net9.0\CarDelegate.exe
+D:\Coding Space\C#\Lessons\CarDelegate\bin\Debug\net9.0\CarDelegate.deps.json
+D:\Coding Space\C#\Lessons\CarDelegate\bin\Debug\net9.0\CarDelegate.runtimeconfig.json
+D:\Coding Space\C#\Lessons\CarDelegate\bin\Debug\net9.0\CarDelegate.dll
+D:\Coding Space\C#\Lessons\CarDelegate\bin\Debug\net9.0\CarDelegate.pdb
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\CarDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\CarDelegate.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\CarDelegate.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\CarDelegate.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\CarDelegate.sourcelink.json
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\CarDelegate.dll
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\refint\CarDelegate.dll
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\CarDelegate.pdb
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\CarDelegate.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\CarDelegate\obj\Debug\net9.0\ref\CarDelegate.dll

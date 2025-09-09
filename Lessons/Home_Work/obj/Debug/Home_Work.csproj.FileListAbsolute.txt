@@ -1,7 +1,0 @@
-C:\Coding Space\C#\Lessons\Home_Work\bin\Debug\Home_Work.exe.config
-C:\Coding Space\C#\Lessons\Home_Work\bin\Debug\Home_Work.exe
-C:\Coding Space\C#\Lessons\Home_Work\bin\Debug\Home_Work.pdb
-C:\Coding Space\C#\Lessons\Home_Work\obj\Debug\Home_Work.csproj.AssemblyReference.cache
-C:\Coding Space\C#\Lessons\Home_Work\obj\Debug\Home_Work.csproj.CoreCompileInputs.cache
-C:\Coding Space\C#\Lessons\Home_Work\obj\Debug\Home_Work.exe
-C:\Coding Space\C#\Lessons\Home_Work\obj\Debug\Home_Work.pdb

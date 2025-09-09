@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\LinqOverArray\bin\Debug\net9.0\LinqOverArray.exe
+D:\Coding Space\C#\Lessons\LinqOverArray\bin\Debug\net9.0\LinqOverArray.deps.json
+D:\Coding Space\C#\Lessons\LinqOverArray\bin\Debug\net9.0\LinqOverArray.runtimeconfig.json
+D:\Coding Space\C#\Lessons\LinqOverArray\bin\Debug\net9.0\LinqOverArray.dll
+D:\Coding Space\C#\Lessons\LinqOverArray\bin\Debug\net9.0\LinqOverArray.pdb
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\LinqOverArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\LinqOverArray.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\LinqOverArray.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\LinqOverArray.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\LinqOverArray.sourcelink.json
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\LinqOverArray.dll
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\refint\LinqOverArray.dll
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\LinqOverArray.pdb
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\LinqOverArray.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\LinqOverArray\obj\Debug\net9.0\ref\LinqOverArray.dll

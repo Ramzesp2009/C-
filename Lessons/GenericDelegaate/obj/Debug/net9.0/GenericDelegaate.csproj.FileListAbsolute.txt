@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\GenericDelegaate\bin\Debug\net9.0\GenericDelegaate.exe
+D:\Coding Space\C#\Lessons\GenericDelegaate\bin\Debug\net9.0\GenericDelegaate.deps.json
+D:\Coding Space\C#\Lessons\GenericDelegaate\bin\Debug\net9.0\GenericDelegaate.runtimeconfig.json
+D:\Coding Space\C#\Lessons\GenericDelegaate\bin\Debug\net9.0\GenericDelegaate.dll
+D:\Coding Space\C#\Lessons\GenericDelegaate\bin\Debug\net9.0\GenericDelegaate.pdb
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\GenericDelegaate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\GenericDelegaate.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\GenericDelegaate.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\GenericDelegaate.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\GenericDelegaate.sourcelink.json
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\GenericDelegaate.dll
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\refint\GenericDelegaate.dll
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\GenericDelegaate.pdb
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\GenericDelegaate.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\GenericDelegaate\obj\Debug\net9.0\ref\GenericDelegaate.dll

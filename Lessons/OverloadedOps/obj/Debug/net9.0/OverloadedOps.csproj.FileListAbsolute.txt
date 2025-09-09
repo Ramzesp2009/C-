@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\OverloadedOps\bin\Debug\net9.0\OverloadedOps.exe
+D:\Coding Space\C#\Lessons\OverloadedOps\bin\Debug\net9.0\OverloadedOps.deps.json
+D:\Coding Space\C#\Lessons\OverloadedOps\bin\Debug\net9.0\OverloadedOps.runtimeconfig.json
+D:\Coding Space\C#\Lessons\OverloadedOps\bin\Debug\net9.0\OverloadedOps.dll
+D:\Coding Space\C#\Lessons\OverloadedOps\bin\Debug\net9.0\OverloadedOps.pdb
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\OverloadedOps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\OverloadedOps.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\OverloadedOps.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\OverloadedOps.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\OverloadedOps.sourcelink.json
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\OverloadedOps.dll
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\refint\OverloadedOps.dll
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\OverloadedOps.pdb
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\OverloadedOps.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\OverloadedOps\obj\Debug\net9.0\ref\OverloadedOps.dll

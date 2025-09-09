@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.exe
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.deps.json
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.runtimeconfig.json
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.dll
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\bin\Debug\net9.0\FunWithGenericCollections.pdb
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.sourcelink.json
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.dll
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\refint\FunWithGenericCollections.dll
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.pdb
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\FunWithGenericCollections.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\FunWithGenericCollections\obj\Debug\net9.0\ref\FunWithGenericCollections.dll

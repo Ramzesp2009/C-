@@ -1,0 +1,5 @@
+D:\Coding Space\C#\Lessons\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\FunWithObservableCollections\obj\Debug\net9.0\FunWithObservableCollections.sourcelink.json

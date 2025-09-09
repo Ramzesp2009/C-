@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\CustomConversions\bin\Debug\net9.0\CustomConversions.exe
+D:\Coding Space\C#\Lessons\CustomConversions\bin\Debug\net9.0\CustomConversions.deps.json
+D:\Coding Space\C#\Lessons\CustomConversions\bin\Debug\net9.0\CustomConversions.runtimeconfig.json
+D:\Coding Space\C#\Lessons\CustomConversions\bin\Debug\net9.0\CustomConversions.dll
+D:\Coding Space\C#\Lessons\CustomConversions\bin\Debug\net9.0\CustomConversions.pdb
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\CustomConversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\CustomConversions.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\CustomConversions.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\CustomConversions.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\CustomConversions.sourcelink.json
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\CustomConversions.dll
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\refint\CustomConversions.dll
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\CustomConversions.pdb
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\CustomConversions.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\CustomConversions\obj\Debug\net9.0\ref\CustomConversions.dll

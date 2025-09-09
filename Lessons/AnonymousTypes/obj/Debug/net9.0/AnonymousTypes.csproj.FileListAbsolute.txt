@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.exe
+D:\Coding Space\C#\Lessons\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.deps.json
+D:\Coding Space\C#\Lessons\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.runtimeconfig.json
+D:\Coding Space\C#\Lessons\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.dll
+D:\Coding Space\C#\Lessons\AnonymousTypes\bin\Debug\net9.0\AnonymousTypes.pdb
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.sourcelink.json
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.dll
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\refint\AnonymousTypes.dll
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.pdb
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\AnonymousTypes.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\AnonymousTypes\obj\Debug\net9.0\ref\AnonymousTypes.dll

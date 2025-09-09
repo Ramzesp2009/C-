@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.sourcelink.json
+D:\Coding Space\C#\Lessons\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.exe
+D:\Coding Space\C#\Lessons\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.deps.json
+D:\Coding Space\C#\Lessons\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.runtimeconfig.json
+D:\Coding Space\C#\Lessons\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.dll
+D:\Coding Space\C#\Lessons\AnonymousMethods\bin\Debug\net9.0\AnonymousMethods.pdb
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.dll
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\refint\AnonymousMethods.dll
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.pdb
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\ref\AnonymousMethods.dll

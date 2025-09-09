@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\bin\Debug\net9.0\IssuesWithNonGenericCollections.exe
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\bin\Debug\net9.0\IssuesWithNonGenericCollections.deps.json
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\bin\Debug\net9.0\IssuesWithNonGenericCollections.runtimeconfig.json
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\bin\Debug\net9.0\IssuesWithNonGenericCollections.dll
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\bin\Debug\net9.0\IssuesWithNonGenericCollections.pdb
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\IssuesWithNonGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\IssuesWithNonGenericCollections.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\IssuesWithNonGenericCollections.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\IssuesWithNonGenericCollections.sourcelink.json
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\IssuesWithNonGenericCollections.dll
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\refint\IssuesWithNonGenericCollections.dll
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\IssuesWithNonGenericCollections.pdb
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\IssuesWithNonGenericCollections.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\IssuesWithNonGenericCollections\obj\Debug\net9.0\ref\IssuesWithNonGenericCollections.dll

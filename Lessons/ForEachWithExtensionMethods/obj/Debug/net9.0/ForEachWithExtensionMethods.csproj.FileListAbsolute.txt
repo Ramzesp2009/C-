@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\bin\Debug\net9.0\ForEachWithExtensionMethods.exe
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\bin\Debug\net9.0\ForEachWithExtensionMethods.deps.json
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\bin\Debug\net9.0\ForEachWithExtensionMethods.runtimeconfig.json
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\bin\Debug\net9.0\ForEachWithExtensionMethods.dll
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\bin\Debug\net9.0\ForEachWithExtensionMethods.pdb
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ForEachWithExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ForEachWithExtensionMethods.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ForEachWithExtensionMethods.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ForEachWithExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ForEachWithExtensionMethods.sourcelink.json
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ForEachWithExtensionMethods.dll
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\refint\ForEachWithExtensionMethods.dll
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ForEachWithExtensionMethods.pdb
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ForEachWithExtensionMethods.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\ForEachWithExtensionMethods\obj\Debug\net9.0\ref\ForEachWithExtensionMethods.dll

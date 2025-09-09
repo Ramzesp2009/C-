@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="UserContentModel">
-    <attachedFolders />
+    <attachedFolders>
+      <Path>FunWithObservableCollections</Path>
+    </attachedFolders>
     <explicitIncludes>
       <Path>.idea</Path>
       <Path>.vs</Path>
       <Path>Benchmark</Path>
+      <Path>FunWithNullableReferenceTypes</Path>
+      <Path>FunWithObservableCollections</Path>
       <Path>LazyObjectInstantiation</Path>
       <Path>Lesson_2</Path>
       <Path>Lesson_3</Path>

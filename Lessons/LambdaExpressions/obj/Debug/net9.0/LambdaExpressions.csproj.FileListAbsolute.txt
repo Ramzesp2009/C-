@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\LambdaExpressions\bin\Debug\net9.0\LambdaExpressions.exe
+D:\Coding Space\C#\Lessons\LambdaExpressions\bin\Debug\net9.0\LambdaExpressions.deps.json
+D:\Coding Space\C#\Lessons\LambdaExpressions\bin\Debug\net9.0\LambdaExpressions.runtimeconfig.json
+D:\Coding Space\C#\Lessons\LambdaExpressions\bin\Debug\net9.0\LambdaExpressions.dll
+D:\Coding Space\C#\Lessons\LambdaExpressions\bin\Debug\net9.0\LambdaExpressions.pdb
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\LambdaExpressions.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\LambdaExpressions.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\LambdaExpressions.sourcelink.json
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\LambdaExpressions.dll
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\refint\LambdaExpressions.dll
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\LambdaExpressions.pdb
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\LambdaExpressions.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\LambdaExpressions\obj\Debug\net9.0\ref\LambdaExpressions.dll

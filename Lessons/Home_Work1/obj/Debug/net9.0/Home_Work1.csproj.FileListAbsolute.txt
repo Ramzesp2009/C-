@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\Home_Work1\bin\Debug\net9.0\Home_Work1.exe
+D:\Coding Space\C#\Lessons\Home_Work1\bin\Debug\net9.0\Home_Work1.deps.json
+D:\Coding Space\C#\Lessons\Home_Work1\bin\Debug\net9.0\Home_Work1.runtimeconfig.json
+D:\Coding Space\C#\Lessons\Home_Work1\bin\Debug\net9.0\Home_Work1.dll
+D:\Coding Space\C#\Lessons\Home_Work1\bin\Debug\net9.0\Home_Work1.pdb
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\Home_Work1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\Home_Work1.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\Home_Work1.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\Home_Work1.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\Home_Work1.sourcelink.json
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\Home_Work1.dll
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\refint\Home_Work1.dll
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\Home_Work1.pdb
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\Home_Work1.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\Home_Work1\obj\Debug\net9.0\ref\Home_Work1.dll

@@ -5,6 +5,11 @@
       "taskLabel": "task-SimpleClassExemple",
       "appliesTo": "SimpleClassExemple/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "Task-Lessons",
+      "appliesTo": "/",
+      "type": "launch"
     }
   ]
 }

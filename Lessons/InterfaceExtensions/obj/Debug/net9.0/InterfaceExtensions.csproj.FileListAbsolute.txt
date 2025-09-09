@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.exe
+D:\Coding Space\C#\Lessons\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.deps.json
+D:\Coding Space\C#\Lessons\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.runtimeconfig.json
+D:\Coding Space\C#\Lessons\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.dll
+D:\Coding Space\C#\Lessons\InterfaceExtensions\bin\Debug\net9.0\InterfaceExtensions.pdb
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.sourcelink.json
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.dll
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\refint\InterfaceExtensions.dll
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.pdb
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\InterfaceExtensions.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\InterfaceExtensions\obj\Debug\net9.0\ref\InterfaceExtensions.dll

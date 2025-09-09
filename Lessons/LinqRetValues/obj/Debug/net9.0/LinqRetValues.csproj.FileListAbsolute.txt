@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\LinqRetValues\bin\Debug\net9.0\LinqRetValues.exe
+D:\Coding Space\C#\Lessons\LinqRetValues\bin\Debug\net9.0\LinqRetValues.deps.json
+D:\Coding Space\C#\Lessons\LinqRetValues\bin\Debug\net9.0\LinqRetValues.runtimeconfig.json
+D:\Coding Space\C#\Lessons\LinqRetValues\bin\Debug\net9.0\LinqRetValues.dll
+D:\Coding Space\C#\Lessons\LinqRetValues\bin\Debug\net9.0\LinqRetValues.pdb
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\LinqRetValues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\LinqRetValues.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\LinqRetValues.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\LinqRetValues.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\LinqRetValues.sourcelink.json
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\LinqRetValues.dll
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\refint\LinqRetValues.dll
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\LinqRetValues.pdb
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\LinqRetValues.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\LinqRetValues\obj\Debug\net9.0\ref\LinqRetValues.dll

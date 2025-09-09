@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\bin\Debug\net9.0\ActionAndFuncDelegates.exe
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\bin\Debug\net9.0\ActionAndFuncDelegates.deps.json
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\bin\Debug\net9.0\ActionAndFuncDelegates.runtimeconfig.json
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\bin\Debug\net9.0\ActionAndFuncDelegates.dll
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\bin\Debug\net9.0\ActionAndFuncDelegates.pdb
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ActionAndFuncDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ActionAndFuncDelegates.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ActionAndFuncDelegates.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ActionAndFuncDelegates.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ActionAndFuncDelegates.sourcelink.json
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ActionAndFuncDelegates.dll
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\refint\ActionAndFuncDelegates.dll
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ActionAndFuncDelegates.pdb
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ActionAndFuncDelegates.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\ActionAndFuncDelegates\obj\Debug\net9.0\ref\ActionAndFuncDelegates.dll
