@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IssuesWithNongenricCollections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cab96ab4994226e747ec62d2ef49082eb60bcd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dead432942e69a0011d324ee56e521859174524")]
 [assembly: System.Reflection.AssemblyProductAttribute("IssuesWithNongenricCollections")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IssuesWithNongenricCollections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

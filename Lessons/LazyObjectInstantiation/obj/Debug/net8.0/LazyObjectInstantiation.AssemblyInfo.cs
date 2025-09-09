@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LazyObjectInstantiation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+612bc5a1ddb95d9b5738796c3f2433fe21b7d5f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dead432942e69a0011d324ee56e521859174524")]
 [assembly: System.Reflection.AssemblyProductAttribute("LazyObjectInstantiation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LazyObjectInstantiation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
