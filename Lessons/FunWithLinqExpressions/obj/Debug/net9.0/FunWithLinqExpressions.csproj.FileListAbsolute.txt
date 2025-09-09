@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.exe
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.deps.json
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.runtimeconfig.json
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.dll
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\bin\Debug\net9.0\FunWithLinqExpressions.pdb
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.sourcelink.json
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.dll
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\refint\FunWithLinqExpressions.dll
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.pdb
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\FunWithLinqExpressions.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\FunWithLinqExpressions\obj\Debug\net9.0\ref\FunWithLinqExpressions.dll

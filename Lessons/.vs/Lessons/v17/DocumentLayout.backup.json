@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC3543D8-4FBF-4952-B95C-6178A06B7CB5}|ListOverCollections\\ListOverCollections.csproj|d:\\coding space\\c#\\lessons\\listovercollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3543D8-4FBF-4952-B95C-6178A06B7CB5}|ListOverCollections\\ListOverCollections.csproj|solutionrelative:listovercollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAE92975-0041-4E61-8008-C69CE7B90888}|FunWithLinqExpressions\\FunWithLinqExpressions.csproj|d:\\coding space\\c#\\lessons\\funwithlinqexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE92975-0041-4E61-8008-C69CE7B90888}|FunWithLinqExpressions\\FunWithLinqExpressions.csproj|solutionrelative:funwithlinqexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC3543D8-4FBF-4952-B95C-6178A06B7CB5}|ListOverCollections\\ListOverCollections.csproj|d:\\coding space\\c#\\lessons\\listovercollections\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3543D8-4FBF-4952-B95C-6178A06B7CB5}|ListOverCollections\\ListOverCollections.csproj|solutionrelative:listovercollections\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAE92975-0041-4E61-8008-C69CE7B90888}|FunWithLinqExpressions\\FunWithLinqExpressions.csproj|d:\\coding space\\c#\\lessons\\funwithlinqexpressions\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAE92975-0041-4E61-8008-C69CE7B90888}|FunWithLinqExpressions\\FunWithLinqExpressions.csproj|solutionrelative:funwithlinqexpressions\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3854526-D324-43DB-B6C2-71B07FFD9656}|LinqOverArray\\LinqOverArray.csproj|d:\\coding space\\c#\\lessons\\linqoverarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "LinqOverArray\\Program.cs",
               "ToolTip": "D:\\Coding Space\\C#\\Lessons\\LinqOverArray\\Program.cs",
               "RelativeToolTip": "LinqOverArray\\Program.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAowGkAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T11:25:04.552Z",
               "EditorCaption": ""
@@ -54,27 +54,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ListOverCollections\\Car.cs",
-              "RelativeDocumentMoniker": "ListOverCollections\\Car.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ListOverCollections\\Car.cs",
-              "RelativeToolTip": "ListOverCollections\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\FunWithLinqExpressions\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "FunWithLinqExpressions\\ProductInfo.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\FunWithLinqExpressions\\ProductInfo.cs",
+              "RelativeToolTip": "FunWithLinqExpressions\\ProductInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T13:04:06.715Z",
+              "WhenOpened": "2025-09-09T13:45:41.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ListOverCollections\\Program.cs",
-              "RelativeDocumentMoniker": "ListOverCollections\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ListOverCollections\\Program.cs",
-              "RelativeToolTip": "ListOverCollections\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\FunWithLinqExpressions\\Program.cs",
+              "RelativeDocumentMoniker": "FunWithLinqExpressions\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\FunWithLinqExpressions\\Program.cs",
+              "RelativeToolTip": "FunWithLinqExpressions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T13:03:05.44Z",
+              "WhenOpened": "2025-09-09T13:45:02.388Z",
               "EditorCaption": ""
             }
           ]
