@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\bin\Debug\net9.0\DefaultAppDomainApp.exe
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\bin\Debug\net9.0\DefaultAppDomainApp.deps.json
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\bin\Debug\net9.0\DefaultAppDomainApp.runtimeconfig.json
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\bin\Debug\net9.0\DefaultAppDomainApp.dll
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\bin\Debug\net9.0\DefaultAppDomainApp.pdb
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\DefaultAppDomainApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\DefaultAppDomainApp.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\DefaultAppDomainApp.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\DefaultAppDomainApp.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\DefaultAppDomainApp.sourcelink.json
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\DefaultAppDomainApp.dll
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\refint\DefaultAppDomainApp.dll
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\DefaultAppDomainApp.pdb
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\DefaultAppDomainApp.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\DefaultAppDomainApp\obj\Debug\net9.0\ref\DefaultAppDomainApp.dll

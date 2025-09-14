@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAE92975-0041-4E61-8008-C69CE7B90888}|FunWithLinqExpressions\\FunWithLinqExpressions.csproj|d:\\coding space\\c#\\lessons\\funwithlinqexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAE92975-0041-4E61-8008-C69CE7B90888}|FunWithLinqExpressions\\FunWithLinqExpressions.csproj|solutionrelative:funwithlinqexpressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding space\\c#\\lessons\\classlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAE92975-0041-4E61-8008-C69CE7B90888}|FunWithLinqExpressions\\FunWithLinqExpressions.csproj|d:\\coding space\\c#\\lessons\\funwithlinqexpressions\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAE92975-0041-4E61-8008-C69CE7B90888}|FunWithLinqExpressions\\FunWithLinqExpressions.csproj|solutionrelative:funwithlinqexpressions\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding space\\c#\\lessons\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3854526-D324-43DB-B6C2-71B07FFD9656}|LinqOverArray\\LinqOverArray.csproj|d:\\coding space\\c#\\lessons\\linqoverarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3854526-D324-43DB-B6C2-71B07FFD9656}|LinqOverArray\\LinqOverArray.csproj|solutionrelative:linqoverarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding space\\c#\\lessons\\classlibrary1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +44,7 @@
               "RelativeDocumentMoniker": "LinqOverArray\\Program.cs",
               "ToolTip": "D:\\Coding Space\\C#\\Lessons\\LinqOverArray\\Program.cs",
               "RelativeToolTip": "LinqOverArray\\Program.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGkAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T11:25:04.552Z",
               "EditorCaption": ""
@@ -54,27 +58,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductInfo.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\FunWithLinqExpressions\\ProductInfo.cs",
-              "RelativeDocumentMoniker": "FunWithLinqExpressions\\ProductInfo.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\FunWithLinqExpressions\\ProductInfo.cs",
-              "RelativeToolTip": "FunWithLinqExpressions\\ProductInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB0AAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Class1.cs*",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T13:45:41.785Z",
+              "WhenOpened": "2025-09-14T12:20:57.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\FunWithLinqExpressions\\Program.cs",
-              "RelativeDocumentMoniker": "FunWithLinqExpressions\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\FunWithLinqExpressions\\Program.cs",
-              "RelativeToolTip": "FunWithLinqExpressions\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Program.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Program.cs*",
+              "RelativeToolTip": "ClassLibrary1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T13:45:02.388Z",
+              "WhenOpened": "2025-09-14T12:03:43.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Car.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Car.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Car.cs",
+              "RelativeToolTip": "ClassLibrary1\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:02:07.11Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.exe
+D:\Coding Space\C#\Lessons\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.deps.json
+D:\Coding Space\C#\Lessons\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.runtimeconfig.json
+D:\Coding Space\C#\Lessons\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.dll
+D:\Coding Space\C#\Lessons\ProcessManipulator\bin\Debug\net9.0\ProcessManipulator.pdb
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.sourcelink.json
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.dll
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\refint\ProcessManipulator.dll
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.pdb
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ProcessManipulator.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\ProcessManipulator\obj\Debug\net9.0\ref\ProcessManipulator.dll

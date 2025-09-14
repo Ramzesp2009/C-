@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.exe
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.deps.json
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.runtimeconfig.json
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.dll
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\bin\Debug\net9.0\LinqUsingEnumerable.pdb
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.sourcelink.json
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.dll
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\refint\LinqUsingEnumerable.dll
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.pdb
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\LinqUsingEnumerable.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\LinqUsingEnumerable\obj\Debug\net9.0\ref\LinqUsingEnumerable.dll
