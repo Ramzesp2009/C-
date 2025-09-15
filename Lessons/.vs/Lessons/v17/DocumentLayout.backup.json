@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BCC191DD-0E2F-4EF1-A8F2-36CDEC1EBD5C}|AddWithThreads\\AddWithThreads.csproj|d:\\coding space\\c#\\lessons\\addwiththreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC191DD-0E2F-4EF1-A8F2-36CDEC1EBD5C}|AddWithThreads\\AddWithThreads.csproj|solutionrelative:addwiththreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC191DD-0E2F-4EF1-A8F2-36CDEC1EBD5C}|AddWithThreads\\AddWithThreads.csproj|d:\\coding space\\c#\\lessons\\addwiththreads\\addparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC191DD-0E2F-4EF1-A8F2-36CDEC1EBD5C}|AddWithThreads\\AddWithThreads.csproj|solutionrelative:addwiththreads\\addparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE26430D-3ECC-4E22-BBAB-51D3BD785E0F}|SimpleMultiThreadApp\\SimpleMultiThreadApp.csproj|d:\\coding space\\c#\\lessons\\simplemultithreadapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE26430D-3ECC-4E22-BBAB-51D3BD785E0F}|SimpleMultiThreadApp\\SimpleMultiThreadApp.csproj|solutionrelative:simplemultithreadapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE26430D-3ECC-4E22-BBAB-51D3BD785E0F}|SimpleMultiThreadApp\\SimpleMultiThreadApp.csproj|d:\\coding space\\c#\\lessons\\simplemultithreadapp\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE26430D-3ECC-4E22-BBAB-51D3BD785E0F}|SimpleMultiThreadApp\\SimpleMultiThreadApp.csproj|solutionrelative:simplemultithreadapp\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DABE7CB-BFC4-4FF9-8E0A-D8EA6F41BF43}|ThreadStats\\ThreadStats.csproj|d:\\coding space\\c#\\lessons\\threadstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DABE7CB-BFC4-4FF9-8E0A-D8EA6F41BF43}|ThreadStats\\ThreadStats.csproj|solutionrelative:threadstats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding space\\c#\\lessons\\classlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding space\\c#\\lessons\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3854526-D324-43DB-B6C2-71B07FFD9656}|LinqOverArray\\LinqOverArray.csproj|d:\\coding space\\c#\\lessons\\linqoverarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3854526-D324-43DB-B6C2-71B07FFD9656}|LinqOverArray\\LinqOverArray.csproj|solutionrelative:linqoverarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|d:\\coding space\\c#\\lessons\\classlibrary1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53CBBB4B-0E1E-4DD3-B734-43348F272E3A}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFC58FC8-4B49-4C3B-9AFC-2C772AFF557B}|DefaultAppDomainApp\\DefaultAppDomainApp.csproj|d:\\coding space\\c#\\lessons\\defaultappdomainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC58FC8-4B49-4C3B-9AFC-2C772AFF557B}|DefaultAppDomainApp\\DefaultAppDomainApp.csproj|solutionrelative:defaultappdomainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 107,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\LinqOverArray\\Program.cs",
-              "RelativeDocumentMoniker": "LinqOverArray\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\LinqOverArray\\Program.cs",
-              "RelativeToolTip": "LinqOverArray\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:25:04.552Z",
-              "EditorCaption": ""
             }
           ]
         },
@@ -58,40 +57,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Class1.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Class1.cs*",
-              "RelativeToolTip": "ClassLibrary1\\Class1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Title": "AddParams.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\AddWithThreads\\AddParams.cs",
+              "RelativeDocumentMoniker": "AddWithThreads\\AddParams.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\AddWithThreads\\AddParams.cs",
+              "RelativeToolTip": "AddWithThreads\\AddParams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T12:20:57.913Z",
+              "WhenOpened": "2025-09-15T16:58:48.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Program.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Program.cs*",
-              "RelativeToolTip": "ClassLibrary1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\AddWithThreads\\Program.cs",
+              "RelativeDocumentMoniker": "AddWithThreads\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\AddWithThreads\\Program.cs*",
+              "RelativeToolTip": "AddWithThreads\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T12:03:43.819Z",
+              "WhenOpened": "2025-09-15T16:58:34.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Car.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Car.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Car.cs",
-              "RelativeToolTip": "ClassLibrary1\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Title": "Printer.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\SimpleMultiThreadApp\\Printer.cs",
+              "RelativeDocumentMoniker": "SimpleMultiThreadApp\\Printer.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\SimpleMultiThreadApp\\Printer.cs",
+              "RelativeToolTip": "SimpleMultiThreadApp\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T12:02:07.11Z",
+              "WhenOpened": "2025-09-15T16:42:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\SimpleMultiThreadApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleMultiThreadApp\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\SimpleMultiThreadApp\\Program.cs",
+              "RelativeToolTip": "SimpleMultiThreadApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:41:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Program.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ClassLibrary1\\Program.cs",
+              "RelativeToolTip": "ClassLibrary1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:28:13.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\DefaultAppDomainApp\\Program.cs",
+              "RelativeDocumentMoniker": "DefaultAppDomainApp\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\DefaultAppDomainApp\\Program.cs",
+              "RelativeToolTip": "DefaultAppDomainApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:27:46.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ThreadStats\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadStats\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ThreadStats\\Program.cs",
+              "RelativeToolTip": "ThreadStats\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:21:36.125Z",
               "EditorCaption": ""
             }
           ]

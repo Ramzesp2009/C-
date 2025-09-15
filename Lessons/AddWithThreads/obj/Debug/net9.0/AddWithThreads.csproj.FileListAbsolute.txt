@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\AddWithThreads\bin\Debug\net9.0\AddWithThreads.exe
+D:\Coding Space\C#\Lessons\AddWithThreads\bin\Debug\net9.0\AddWithThreads.deps.json
+D:\Coding Space\C#\Lessons\AddWithThreads\bin\Debug\net9.0\AddWithThreads.runtimeconfig.json
+D:\Coding Space\C#\Lessons\AddWithThreads\bin\Debug\net9.0\AddWithThreads.dll
+D:\Coding Space\C#\Lessons\AddWithThreads\bin\Debug\net9.0\AddWithThreads.pdb
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\AddWithThreads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\AddWithThreads.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\AddWithThreads.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\AddWithThreads.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\AddWithThreads.sourcelink.json
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\AddWithThreads.dll
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\refint\AddWithThreads.dll
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\AddWithThreads.pdb
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\AddWithThreads.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\AddWithThreads\obj\Debug\net9.0\ref\AddWithThreads.dll
