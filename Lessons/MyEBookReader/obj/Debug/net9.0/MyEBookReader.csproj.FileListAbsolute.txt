@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\MyEBookReader\bin\Debug\net9.0\MyEBookReader.exe
+D:\Coding Space\C#\Lessons\MyEBookReader\bin\Debug\net9.0\MyEBookReader.deps.json
+D:\Coding Space\C#\Lessons\MyEBookReader\bin\Debug\net9.0\MyEBookReader.runtimeconfig.json
+D:\Coding Space\C#\Lessons\MyEBookReader\bin\Debug\net9.0\MyEBookReader.dll
+D:\Coding Space\C#\Lessons\MyEBookReader\bin\Debug\net9.0\MyEBookReader.pdb
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\MyEBookReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\MyEBookReader.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\MyEBookReader.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\MyEBookReader.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\MyEBookReader.sourcelink.json
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\MyEBookReader.dll
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\refint\MyEBookReader.dll
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\MyEBookReader.pdb
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\MyEBookReader.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\MyEBookReader\obj\Debug\net9.0\ref\MyEBookReader.dll

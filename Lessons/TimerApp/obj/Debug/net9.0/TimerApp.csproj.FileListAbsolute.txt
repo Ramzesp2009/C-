@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\TimerApp\bin\Debug\net9.0\TimerApp.exe
+D:\Coding Space\C#\Lessons\TimerApp\bin\Debug\net9.0\TimerApp.deps.json
+D:\Coding Space\C#\Lessons\TimerApp\bin\Debug\net9.0\TimerApp.runtimeconfig.json
+D:\Coding Space\C#\Lessons\TimerApp\bin\Debug\net9.0\TimerApp.dll
+D:\Coding Space\C#\Lessons\TimerApp\bin\Debug\net9.0\TimerApp.pdb
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\TimerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\TimerApp.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\TimerApp.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\TimerApp.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\TimerApp.sourcelink.json
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\TimerApp.dll
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\refint\TimerApp.dll
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\TimerApp.pdb
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\TimerApp.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\TimerApp\obj\Debug\net9.0\ref\TimerApp.dll

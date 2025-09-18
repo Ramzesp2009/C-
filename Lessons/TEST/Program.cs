@@ -1,23 +1,13 @@
-﻿using System.Reflection;
-
-namespace TEST
+﻿static async IAsyncEnumerable<int> GenerateSequence()
 {
-    class Program
+    for (int i = 0; i < 20; i++)
     {
-        static void Main()
-        {
-            int myInt = 123456789;
-            myInt.DisplayDefiningAssembly();
-            System.Data.DataSet d = new System.Data.DataSet();
-            d.DisplayDefiningAssembly();
-        }
+        await Task.Delay(100);
+        yield return i;
     }
+}
 
-    static class ObjectExtensions
-    {
-        public static void DisplayDefiningAssembly(this object obj)
-        {
-            Console.WriteLine($"{obj.GetType().Name} lives here:\n't->{Assembly.GetAssembly(obj.GetType())}");
-        }
-    }
+await foreach (var number in GenerateSequence())
+{
+    Console.WriteLine(number);
 }

@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.exe
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.deps.json
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.runtimeconfig.json
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.dll
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\bin\Debug\net9.0\FunWithCSharpAsync.pdb
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.sourcelink.json
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.dll
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\refint\FunWithCSharpAsync.dll
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.pdb
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\FunWithCSharpAsync.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\FunWithCSharpAsync\obj\Debug\net9.0\ref\FunWithCSharpAsync.dll

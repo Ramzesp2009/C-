@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\bin\Debug\net9.0\PLINQDataProcessingWithCancellation.exe
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\bin\Debug\net9.0\PLINQDataProcessingWithCancellation.deps.json
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\bin\Debug\net9.0\PLINQDataProcessingWithCancellation.runtimeconfig.json
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\bin\Debug\net9.0\PLINQDataProcessingWithCancellation.dll
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\bin\Debug\net9.0\PLINQDataProcessingWithCancellation.pdb
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\PLINQDataProcessingWithCancellation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\PLINQDataProcessingWithCancellation.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\PLINQDataProcessingWithCancellation.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\PLINQDataProcessingWithCancellation.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\PLINQDataProcessingWithCancellation.sourcelink.json
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\PLINQDataProcessingWithCancellation.dll
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\refint\PLINQDataProcessingWithCancellation.dll
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\PLINQDataProcessingWithCancellation.pdb
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\PLINQDataProcessingWithCancellation.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\PLINQDataProcessingWithCancellation\obj\Debug\net9.0\ref\PLINQDataProcessingWithCancellation.dll

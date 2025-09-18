@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\MultiThreadPrinting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\MultiThreadPrinting.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\MultiThreadPrinting.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\MultiThreadPrinting.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\MultiThreadPrinting.sourcelink.json
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\bin\Debug\net9.0\MultiThreadPrinting.exe
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\bin\Debug\net9.0\MultiThreadPrinting.deps.json
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\bin\Debug\net9.0\MultiThreadPrinting.runtimeconfig.json
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\bin\Debug\net9.0\MultiThreadPrinting.dll
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\bin\Debug\net9.0\MultiThreadPrinting.pdb
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\MultiThreadPrinting.dll
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\refint\MultiThreadPrinting.dll
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\MultiThreadPrinting.pdb
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\MultiThreadPrinting.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\MultiThreadPrinting\obj\Debug\net9.0\ref\MultiThreadPrinting.dll
