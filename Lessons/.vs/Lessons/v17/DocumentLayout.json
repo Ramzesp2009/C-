@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "D:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC92FBFD-E1C1-4FEE-BEB5-1D5C9CCDCD51}|PictureHandlerWithAsyncAwait\\PictureHandlerWithAsyncAwait.csproj|d:\\coding space\\c#\\lessons\\picturehandlerwithasyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC92FBFD-E1C1-4FEE-BEB5-1D5C9CCDCD51}|PictureHandlerWithAsyncAwait\\PictureHandlerWithAsyncAwait.csproj|solutionrelative:picturehandlerwithasyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18739724-3337-489F-BC65-569FF0A90C0F}|TEST\\TEST.csproj|d:\\coding space\\c#\\lessons\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18739724-3337-489F-BC65-569FF0A90C0F}|TEST\\TEST.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18739724-3337-489F-BC65-569FF0A90C0F}|TEST\\TEST.csproj|d:\\coding space\\c#\\lessons\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{18739724-3337-489F-BC65-569FF0A90C0F}|TEST\\TEST.csproj|solutionrelative:test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{48EF64AA-C61F-4B51-AEE0-93EBBADBDD1F}|SimpleFileIO\\SimpleFileIO.csproj|d:\\coding space\\c#\\lessons\\simplefileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EF64AA-C61F-4B51-AEE0-93EBBADBDD1F}|SimpleFileIO\\SimpleFileIO.csproj|solutionrelative:simplefileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4465EE38-23A4-44E4-ABF5-0D86EE4569E4}|PLINQDataProcessingWithCancellation\\PLINQDataProcessingWithCancellation.csproj|d:\\coding space\\c#\\lessons\\plinqdataprocessingwithcancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4465EE38-23A4-44E4-ABF5-0D86EE4569E4}|PLINQDataProcessingWithCancellation\\PLINQDataProcessingWithCancellation.csproj|solutionrelative:plinqdataprocessingwithcancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A12B471C-B323-4BE4-B0E4-8D450399CCE0}|FunWithCSharpAsync\\FunWithCSharpAsync.csproj|d:\\coding space\\c#\\lessons\\funwithcsharpasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A12B471C-B323-4BE4-B0E4-8D450399CCE0}|FunWithCSharpAsync\\FunWithCSharpAsync.csproj|solutionrelative:funwithcsharpasync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA88AA7C-DB68-4F19-B0D9-B182AA41D552}|ThreadPoolApp\\ThreadPoolApp.csproj|d:\\coding space\\c#\\lessons\\threadpoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA88AA7C-DB68-4F19-B0D9-B182AA41D552}|ThreadPoolApp\\ThreadPoolApp.csproj|solutionrelative:threadpoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43A8E744-7032-4041-B21F-321AD600F831}|MultiThreadPrinting\\MultiThreadPrinting.csproj|d:\\coding space\\c#\\lessons\\multithreadprinting\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43A8E744-7032-4041-B21F-321AD600F831}|MultiThreadPrinting\\MultiThreadPrinting.csproj|solutionrelative:multithreadprinting\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E83E2E1-609B-4A10-83D1-232CD3C43B30}|TimerApp\\TimerApp.csproj|d:\\coding space\\c#\\lessons\\timerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E83E2E1-609B-4A10-83D1-232CD3C43B30}|TimerApp\\TimerApp.csproj|solutionrelative:timerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43A8E744-7032-4041-B21F-321AD600F831}|MultiThreadPrinting\\MultiThreadPrinting.csproj|d:\\coding space\\c#\\lessons\\multithreadprinting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43A8E744-7032-4041-B21F-321AD600F831}|MultiThreadPrinting\\MultiThreadPrinting.csproj|solutionrelative:multithreadprinting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE26430D-3ECC-4E22-BBAB-51D3BD785E0F}|SimpleMultiThreadApp\\SimpleMultiThreadApp.csproj|d:\\coding space\\c#\\lessons\\simplemultithreadapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE26430D-3ECC-4E22-BBAB-51D3BD785E0F}|SimpleMultiThreadApp\\SimpleMultiThreadApp.csproj|solutionrelative:simplemultithreadapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC92FBFD-E1C1-4FEE-BEB5-1D5C9CCDCD51}|PictureHandlerWithAsyncAwait\\PictureHandlerWithAsyncAwait.csproj|d:\\coding space\\c#\\lessons\\picturehandlerwithasyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC92FBFD-E1C1-4FEE-BEB5-1D5C9CCDCD51}|PictureHandlerWithAsyncAwait\\PictureHandlerWithAsyncAwait.csproj|solutionrelative:picturehandlerwithasyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,6 +26,10 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -63,139 +39,59 @@
           ]
         },
         {
-          "DockedWidth": 222,
+          "DockedWidth": 248,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\TEST\\Program.cs",
+              "RelativeDocumentMoniker": "TEST\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\TEST\\Program.cs",
+              "RelativeToolTip": "TEST\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:05:03.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 435,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\TEST\\Program.cs",
-              "RelativeDocumentMoniker": "TEST\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\TEST\\Program.cs",
-              "RelativeToolTip": "TEST\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\SimpleFileIO\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleFileIO\\Program.cs",
+              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\SimpleFileIO\\Program.cs",
+              "RelativeToolTip": "SimpleFileIO\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAE0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:05:03.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TEST",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\TEST\\TEST.csproj",
-              "RelativeDocumentMoniker": "TEST\\TEST.csproj",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\TEST\\TEST.csproj",
-              "RelativeToolTip": "TEST\\TEST.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-18T17:05:01.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\PLINQDataProcessingWithCancellation\\Program.cs",
-              "RelativeDocumentMoniker": "PLINQDataProcessingWithCancellation\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\PLINQDataProcessingWithCancellation\\Program.cs",
-              "RelativeToolTip": "PLINQDataProcessingWithCancellation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T10:52:49.234Z",
+              "WhenOpened": "2025-10-19T12:40:03.854Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 216,
+          "DockedWidth": 193,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Coding Space\\C#\\Lessons\\PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
               "RelativeToolTip": "PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T16:26:48.766Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\FunWithCSharpAsync\\Program.cs",
-              "RelativeDocumentMoniker": "FunWithCSharpAsync\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\FunWithCSharpAsync\\Program.cs",
-              "RelativeToolTip": "FunWithCSharpAsync\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T12:39:16.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\ThreadPoolApp\\Program.cs",
-              "RelativeDocumentMoniker": "ThreadPoolApp\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\ThreadPoolApp\\Program.cs",
-              "RelativeToolTip": "ThreadPoolApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T10:50:32.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\TimerApp\\Program.cs",
-              "RelativeDocumentMoniker": "TimerApp\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\TimerApp\\Program.cs",
-              "RelativeToolTip": "TimerApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T10:35:58.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Printer.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\MultiThreadPrinting\\Printer.cs",
-              "RelativeDocumentMoniker": "MultiThreadPrinting\\Printer.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\MultiThreadPrinting\\Printer.cs",
-              "RelativeToolTip": "MultiThreadPrinting\\Printer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T10:11:13.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\MultiThreadPrinting\\Program.cs",
-              "RelativeDocumentMoniker": "MultiThreadPrinting\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\MultiThreadPrinting\\Program.cs",
-              "RelativeToolTip": "MultiThreadPrinting\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T10:10:58.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\SimpleMultiThreadApp\\Program.cs",
-              "RelativeDocumentMoniker": "SimpleMultiThreadApp\\Program.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\SimpleMultiThreadApp\\Program.cs",
-              "RelativeToolTip": "SimpleMultiThreadApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T10:04:59.087Z"
             }
           ]
         }

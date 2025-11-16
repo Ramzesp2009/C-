@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.exe
+D:\Coding Space\C#\Lessons\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.deps.json
+D:\Coding Space\C#\Lessons\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.runtimeconfig.json
+D:\Coding Space\C#\Lessons\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.dll
+D:\Coding Space\C#\Lessons\DriveInfoApp\bin\Debug\net9.0\DriveInfoApp.pdb
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.sourcelink.json
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.dll
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\refint\DriveInfoApp.dll
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.pdb
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\DriveInfoApp.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\DriveInfoApp\obj\Debug\net9.0\ref\DriveInfoApp.dll

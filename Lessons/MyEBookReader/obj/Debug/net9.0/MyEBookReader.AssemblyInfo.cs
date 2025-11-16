@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyEBookReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00cbd051950f3447d4c103f16d912f830c5e672f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4ef08b72e02796f497659dc6d7d553a7787d1c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyEBookReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyEBookReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

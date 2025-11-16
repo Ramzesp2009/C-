@@ -1,13 +1,13 @@
-﻿static async IAsyncEnumerable<int> GenerateSequence()
+﻿Console.WriteLine("***** Simple I/O with the File Type *****\n");
+string[] myTasks = {
+    "Fix bathroom sind", "Call Dave",
+    "Call Mom and Dad", "Play Xbox One"};
+
+File.WriteAllLines("ToDoList.txt", myTasks);
+
+foreach (string task in File.ReadAllLines("ToDoList.txt"))
 {
-    for (int i = 0; i < 20; i++)
-    {
-        await Task.Delay(100);
-        yield return i;
-    }
+    Console.WriteLine("TODO: {0}", task);
 }
 
-await foreach (var number in GenerateSequence())
-{
-    Console.WriteLine(number);
-}
+File.Delete("ToDoList.txt");

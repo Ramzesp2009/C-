@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.exe
+D:\Coding Space\C#\Lessons\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.deps.json
+D:\Coding Space\C#\Lessons\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.runtimeconfig.json
+D:\Coding Space\C#\Lessons\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.dll
+D:\Coding Space\C#\Lessons\SimpleFileIO\bin\Debug\net9.0\SimpleFileIO.pdb
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.sourcelink.json
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.dll
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\refint\SimpleFileIO.dll
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.pdb
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\SimpleFileIO.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\SimpleFileIO\obj\Debug\net9.0\ref\SimpleFileIO.dll
