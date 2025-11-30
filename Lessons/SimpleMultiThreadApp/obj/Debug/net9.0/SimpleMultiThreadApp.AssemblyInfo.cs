@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleMultiThreadApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4ef08b72e02796f497659dc6d7d553a7787d1c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25b72dcb5ac6f76dd2c7788047b1f198dda42e84")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleMultiThreadApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleMultiThreadApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

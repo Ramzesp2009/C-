@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\StringReaderWriteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\StringReaderWriteApp.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\StringReaderWriteApp.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\StringReaderWriteApp.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\StringReaderWriteApp.sourcelink.json
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\bin\Debug\net10.0\StringReaderWriteApp.exe
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\bin\Debug\net10.0\StringReaderWriteApp.deps.json
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\bin\Debug\net10.0\StringReaderWriteApp.runtimeconfig.json
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\bin\Debug\net10.0\StringReaderWriteApp.dll
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\bin\Debug\net10.0\StringReaderWriteApp.pdb
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\StringReaderWriteApp.dll
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\refint\StringReaderWriteApp.dll
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\StringReaderWriteApp.pdb
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\StringReaderWriteApp.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\StringReaderWriteApp\obj\Debug\net10.0\ref\StringReaderWriteApp.dll

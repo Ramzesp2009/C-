@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Coding Space\\C#\\Lessons\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18739724-3337-489F-BC65-569FF0A90C0F}|TEST\\TEST.csproj|d:\\coding space\\c#\\lessons\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18739724-3337-489F-BC65-569FF0A90C0F}|TEST\\TEST.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48EF64AA-C61F-4B51-AEE0-93EBBADBDD1F}|SimpleFileIO\\SimpleFileIO.csproj|d:\\coding space\\c#\\lessons\\simplefileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48EF64AA-C61F-4B51-AEE0-93EBBADBDD1F}|SimpleFileIO\\SimpleFileIO.csproj|solutionrelative:simplefileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC92FBFD-E1C1-4FEE-BEB5-1D5C9CCDCD51}|PictureHandlerWithAsyncAwait\\PictureHandlerWithAsyncAwait.csproj|d:\\coding space\\c#\\lessons\\picturehandlerwithasyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC92FBFD-E1C1-4FEE-BEB5-1D5C9CCDCD51}|PictureHandlerWithAsyncAwait\\PictureHandlerWithAsyncAwait.csproj|solutionrelative:picturehandlerwithasyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18739724-3337-489F-BC65-569FF0A90C0F}|TEST\\TEST.csproj|d:\\coding space\\c#\\lessons\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18739724-3337-489F-BC65-569FF0A90C0F}|TEST\\TEST.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +20,6 @@
           "DockedWidth": 107,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -44,7 +36,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\TEST\\Program.cs",
               "RelativeDocumentMoniker": "TEST\\Program.cs",
@@ -63,34 +55,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\SimpleFileIO\\Program.cs",
               "RelativeDocumentMoniker": "SimpleFileIO\\Program.cs",
               "ToolTip": "D:\\Coding Space\\C#\\Lessons\\SimpleFileIO\\Program.cs",
               "RelativeToolTip": "SimpleFileIO\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAE0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T12:40:03.854Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 193,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "RelativeToolTip": "PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:26:48.766Z",
               "EditorCaption": ""
             }
           ]

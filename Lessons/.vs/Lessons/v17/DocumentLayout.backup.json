@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{48EF64AA-C61F-4B51-AEE0-93EBBADBDD1F}|SimpleFileIO\\SimpleFileIO.csproj|d:\\coding space\\c#\\lessons\\simplefileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48EF64AA-C61F-4B51-AEE0-93EBBADBDD1F}|SimpleFileIO\\SimpleFileIO.csproj|solutionrelative:simplefileio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC92FBFD-E1C1-4FEE-BEB5-1D5C9CCDCD51}|PictureHandlerWithAsyncAwait\\PictureHandlerWithAsyncAwait.csproj|d:\\coding space\\c#\\lessons\\picturehandlerwithasyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC92FBFD-E1C1-4FEE-BEB5-1D5C9CCDCD51}|PictureHandlerWithAsyncAwait\\PictureHandlerWithAsyncAwait.csproj|solutionrelative:picturehandlerwithasyncawait\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,25 +64,6 @@
               "ViewState": "AgIAACoAAAAAAAAAAAAAAE0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T12:40:03.854Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 193,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Coding Space\\C#\\Lessons\\PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Coding Space\\C#\\Lessons\\PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "RelativeToolTip": "PictureHandlerWithAsyncAwait\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T16:26:48.766Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\bin\Debug\net10.0\StreamWriterReaderApp.exe
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\bin\Debug\net10.0\StreamWriterReaderApp.deps.json
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\bin\Debug\net10.0\StreamWriterReaderApp.runtimeconfig.json
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\bin\Debug\net10.0\StreamWriterReaderApp.dll
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\bin\Debug\net10.0\StreamWriterReaderApp.pdb
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\StreamWriterReaderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\StreamWriterReaderApp.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\StreamWriterReaderApp.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\StreamWriterReaderApp.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\StreamWriterReaderApp.sourcelink.json
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\StreamWriterReaderApp.dll
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\refint\StreamWriterReaderApp.dll
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\StreamWriterReaderApp.pdb
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\StreamWriterReaderApp.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\StreamWriterReaderApp\obj\Debug\net10.0\ref\StreamWriterReaderApp.dll

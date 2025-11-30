@@ -1,0 +1,15 @@
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\bin\Debug\net10.0\MyDirectoryWatcher.exe
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\bin\Debug\net10.0\MyDirectoryWatcher.deps.json
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\bin\Debug\net10.0\MyDirectoryWatcher.runtimeconfig.json
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\bin\Debug\net10.0\MyDirectoryWatcher.dll
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\bin\Debug\net10.0\MyDirectoryWatcher.pdb
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\MyDirectoryWatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\MyDirectoryWatcher.AssemblyInfoInputs.cache
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\MyDirectoryWatcher.AssemblyInfo.cs
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\MyDirectoryWatcher.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\MyDirectoryWatcher.sourcelink.json
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\MyDirectoryWatcher.dll
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\refint\MyDirectoryWatcher.dll
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\MyDirectoryWatcher.pdb
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\MyDirectoryWatcher.genruntimeconfig.cache
+D:\Coding Space\C#\Lessons\MyDirectoryWatcher\obj\Debug\net10.0\ref\MyDirectoryWatcher.dll
