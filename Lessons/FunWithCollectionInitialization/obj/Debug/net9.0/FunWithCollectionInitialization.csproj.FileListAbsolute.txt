@@ -1,0 +1,15 @@
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\bin\Debug\net9.0\FunWithCollectionInitialization.exe
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\bin\Debug\net9.0\FunWithCollectionInitialization.deps.json
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\bin\Debug\net9.0\FunWithCollectionInitialization.runtimeconfig.json
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\bin\Debug\net9.0\FunWithCollectionInitialization.dll
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\bin\Debug\net9.0\FunWithCollectionInitialization.pdb
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\FunWithCollectionInitialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\FunWithCollectionInitialization.AssemblyInfoInputs.cache
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\FunWithCollectionInitialization.AssemblyInfo.cs
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\FunWithCollectionInitialization.csproj.CoreCompileInputs.cache
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\FunWithCollectionInitialization.sourcelink.json
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\FunWithCollectionInitialization.dll
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\refint\FunWithCollectionInitialization.dll
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\FunWithCollectionInitialization.pdb
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\FunWithCollectionInitialization.genruntimeconfig.cache
+E:\Coding Space\C#\Lessons\FunWithCollectionInitialization\obj\Debug\net9.0\ref\FunWithCollectionInitialization.dll

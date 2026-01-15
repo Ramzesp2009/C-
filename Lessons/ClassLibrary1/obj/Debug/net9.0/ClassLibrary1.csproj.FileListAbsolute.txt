@@ -3,3 +3,8 @@ D:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.Assembly
 D:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.AssemblyInfo.cs
 D:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.csproj.CoreCompileInputs.cache
 D:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.sourcelink.json
+E:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.AssemblyInfo.cs
+E:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\Coding Space\C#\Lessons\ClassLibrary1\obj\Debug\net9.0\ClassLibrary1.sourcelink.json

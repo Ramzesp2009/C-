@@ -1,0 +1,15 @@
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\bin\Debug\net9.0\LazyObjectInstantiation1.exe
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\bin\Debug\net9.0\LazyObjectInstantiation1.deps.json
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\bin\Debug\net9.0\LazyObjectInstantiation1.runtimeconfig.json
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\bin\Debug\net9.0\LazyObjectInstantiation1.dll
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\bin\Debug\net9.0\LazyObjectInstantiation1.pdb
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\LazyObjectInstantiation1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\LazyObjectInstantiation1.AssemblyInfoInputs.cache
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\LazyObjectInstantiation1.AssemblyInfo.cs
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\LazyObjectInstantiation1.csproj.CoreCompileInputs.cache
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\LazyObjectInstantiation1.sourcelink.json
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\LazyObjectInstantiation1.dll
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\refint\LazyObjectInstantiation1.dll
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\LazyObjectInstantiation1.pdb
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\LazyObjectInstantiation1.genruntimeconfig.cache
+E:\Coding Space\C#\Lessons\LazyObjectInstantiation1\obj\Debug\net9.0\ref\LazyObjectInstantiation1.dll

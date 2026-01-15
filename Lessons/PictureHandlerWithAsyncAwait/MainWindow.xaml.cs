@@ -15,6 +15,12 @@ public partial class MainWindow : Window
 
     public MainWindow()
     {
+        InitializeComponent();
+    }
+
+    private void InitializeComponent()
+    {
+        throw new NotImplementedException();
     }
 
     private async Task cmdCancel_Click(object sender, EventArgs e)

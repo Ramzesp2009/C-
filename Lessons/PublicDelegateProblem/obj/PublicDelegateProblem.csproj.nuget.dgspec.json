@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\PublicDelegateProblem.csproj": {}
+    "E:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\PublicDelegateProblem.csproj": {}
   },
   "projects": {
-    "D:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\PublicDelegateProblem.csproj": {
+    "E:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\PublicDelegateProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\PublicDelegateProblem.csproj",
+        "projectUniqueName": "E:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\PublicDelegateProblem.csproj",
         "projectName": "PublicDelegateProblem",
-        "projectPath": "D:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\PublicDelegateProblem.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\obj\\",
+        "projectPath": "E:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\PublicDelegateProblem.csproj",
+        "packagesPath": "C:\\Users\\RAM\\.nuget\\packages\\",
+        "outputPath": "E:\\Coding Space\\C#\\Lessons\\PublicDelegateProblem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

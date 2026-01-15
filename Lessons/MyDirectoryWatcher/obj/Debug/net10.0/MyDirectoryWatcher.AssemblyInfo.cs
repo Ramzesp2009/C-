@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyDirectoryWatcher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25b72dcb5ac6f76dd2c7788047b1f198dda42e84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0443470a9f0e75956b4503c2d7c5993bfb974117")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyDirectoryWatcher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyDirectoryWatcher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

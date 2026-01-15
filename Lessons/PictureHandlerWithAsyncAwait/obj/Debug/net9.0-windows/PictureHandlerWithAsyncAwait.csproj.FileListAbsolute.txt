@@ -1,0 +1,4 @@
+E:\Coding Space\C#\Lessons\PictureHandlerWithAsyncAwait\obj\Debug\net9.0-windows\MainWindow.g.cs
+E:\Coding Space\C#\Lessons\PictureHandlerWithAsyncAwait\obj\Debug\net9.0-windows\App.g.cs
+E:\Coding Space\C#\Lessons\PictureHandlerWithAsyncAwait\obj\Debug\net9.0-windows\PictureHandlerWithAsyncAwait_MarkupCompile.cache
+E:\Coding Space\C#\Lessons\PictureHandlerWithAsyncAwait\obj\Debug\net9.0-windows\PictureHandlerWithAsyncAwait_MarkupCompile.lref

@@ -4,7 +4,7 @@ Console.WriteLine("***** Anonymous Methods *****\n");
 int aboutToBlowCoutner = 0;
 
 Car c1 = new Car("SlugBug", 100, 10);
-c1.AboutToBlow += static delegate
+c1.AboutToBlow += delegate
 {
     aboutToBlowCoutner++;
     Console.WriteLine("Eek! Going too fast!");

@@ -13,3 +13,11 @@ D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\refint\AnonymousMet
 D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.pdb
 D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.genruntimeconfig.cache
 D:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\ref\AnonymousMethods.dll
+E:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.AssemblyInfoInputs.cache
+E:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.AssemblyInfo.cs
+E:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+E:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.sourcelink.json
+E:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.dll
+E:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\refint\AnonymousMethods.dll
+E:\Coding Space\C#\Lessons\AnonymousMethods\obj\Debug\net9.0\AnonymousMethods.pdb
